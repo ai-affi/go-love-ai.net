@@ -325,15 +325,21 @@ html{scroll-behavior:smooth}
 
   /* Models grid */
   const mg=document.getElementById('models-grid');
-  if(data.models&&mg){
-    data.models.forEach((c,i)=>{
-      const img=c.image||'/assets/images/model-'+(i+1)+'.jpg';
-      const alt=c.name+' AI character';
-      const tagsHtml=c.tags?c.tags.slice(0,3).map(t=>`<span class="inline-block bg-white/10 text-xs px-2 py-1 rounded-full mr-1 mb-1">${t}</span>`).join(''):'';
-      const statsHtml=`<div class="flex items-center gap-3 text-xs text-gray-500 mt-2 mb-2"><span>⭐ ${c.rating||'4.5'}</span><span>❤️ ${c.likes||'0'}</span><span>💬 ${c.chats||'0'}</span></div>`;
+  const modelImages=[
+    '/assets/images/elena-letova.jpg',
+    '/assets/images/sakura-mint.jpeg',
+    '/assets/images/maya-stone.jpg',
+    '/assets/images/lilith-vex.jpeg',
+    '/assets/images/chloe-summers.jpg',
+    '/assets/images/aria-nova.jpeg'
+  ];
+  if(data.models?.characters&&mg){
+    data.models.characters.forEach((c,i)=>{
+      const img=modelImages[i]||'';
+      const alt=c.image_alt||c.name+' AI character';
       mg.innerHTML+=`<a href="/go/mylovely" rel="nofollow sponsored" class="glass rounded-2xl overflow-hidden block transition hover:scale-[1.02] group">
-        <div class="overflow-hidden relative"><img src="${img}" alt="${alt}" class="w-full h-auto object-contain group-hover:scale-105 transition duration-500" loading="lazy"><div class="absolute top-2 right-2 bg-accent text-black text-xs font-bold px-2 py-1 rounded-full">Lv.${c.level||'?'}</div></div>
-        <div class="p-5"><h3 class="font-bold text-lg mb-1">${c.name}</h3><p class="text-sm text-gray-400 mb-1">${c.age||''} · ${c.species||'AI'} · ${c.gender||''}</p>${statsHtml}<div class="flex flex-wrap mb-2">${tagsHtml}</div><p class="text-sm text-gray-300 line-clamp-3">${c.short_description||c.description||''}</p></div>
+        <div class="overflow-hidden relative"><img src="${img}" alt="${alt}" class="w-full h-auto object-contain group-hover:scale-105 transition duration-500" loading="lazy"></div>
+        <div class="p-5"><h3 class="font-bold text-lg mb-1">${c.name}</h3><p class="text-sm text-gray-400 mb-2">${c.age} · ${c.type}</p><p class="text-xs text-gray-500 mb-3">${c.traits}</p><p class="text-sm text-gray-300">${c.description}</p></div>
       </a>`;
     });
   }

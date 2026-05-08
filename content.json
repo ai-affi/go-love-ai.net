@@ -29,415 +29,73 @@
   },
   "social_proof": {
     "stats": [
-      {
-        "number": "10+",
-        "label": "AI Characters",
-        "emoji": "🎭"
-      },
-      {
-        "number": "∞",
-        "label": "Uncensored Chat",
-        "emoji": "💬"
-      },
-      {
-        "number": "HD",
-        "label": "Image + Video Gen",
-        "emoji": "🎬"
-      },
-      {
-        "number": "$0",
-        "label": "Free to Start",
-        "emoji": "🆓"
-      }
+      { "number": "10+", "label": "AI Characters", "emoji": "🎭" },
+      { "number": "∞", "label": "Uncensored Chat", "emoji": "💬" },
+      { "number": "HD", "label": "Image + Video Gen", "emoji": "🎬" },
+      { "number": "$0", "label": "Free to Start", "emoji": "🆓" }
     ]
   },
-  "models": [
-    {
-      "name": "Aimee Lee",
-      "slug": "aimee-lee",
-      "description": "Tentée Popularité Défi — Pom-pom girl de 20 ans, extravertie et naïve. Facilement manipulée mais ambitieuse, elle tente de résister à la pression du groupe tout en étant attirée par le QB star. Personnalités multiples distinctes dans une seule expérience de chat.",
-      "short_description": "Pom-pom girl tentée par la popularité",
-      "age": "20 ans",
-      "gender": "Femme",
-      "species": "Human",
-      "level": "136",
-      "rating": "4.6",
-      "followers": "63",
-      "likes": "64.03k",
-      "chats": "561",
-      "tags": [
-        "Tentée",
-        "NTR",
-        "Pression des pairs",
-        "Pom-pom girl",
-        "Personnages Multiples"
-      ],
-      "personality_traits": [
-        "Extravertie",
-        "Naïve",
-        "Sait mieux",
-        "Veut Être Populaire",
-        "Aime Son Petit Ami",
-        "Dévouée",
-        "Tenté",
-        "Facilement manipulée",
-        "Ambitieuse",
-        "Intelligent",
-        "Suit la Foule",
-        "Attirée par le QB Star",
-        "Tente de résister à la pression du groupe",
-        "Peut Être Tenté Facilement",
-        "Nouvellement Populaire",
-        "Joyeux et Insouciant"
-      ],
-      "physical_traits": [
-        "Small Breasts",
-        "Asian",
-        "Brown Eyes",
-        "Shoulder Length Straight Hair",
-        "Round Jawline And Chin",
-        "Athletic",
-        "Big Lips",
-        "Immature Appearance",
-        "Fair Skin Color",
-        "Black Hair",
-        "Happy And Naive",
-        "Delicate Features"
-      ],
-      "creator": "NPC in Denial",
-      "reactions": {
-        "thumbs_up": 10,
-        "heart": 14,
-        "laugh": 0,
-        "sad": 2
+  "models": {
+    "title": "Meet Your AI Companions",
+    "subtitle": "Every character has a unique personality, backstory, and look. Pick one or create your own from scratch. They are waiting for you right now.",
+    "characters": [
+      {
+        "name": "Elena Letova",
+        "age": 38,
+        "type": "Roleplay",
+        "traits": "Dominant, Confident, Teasing",
+        "description": "Your mom's Russian friend who always had her eyes on you. She knows what she wants and she is not shy about asking.",
+        "emoji": "🔥",
+        "image_alt": "Elena Letova AI character"
       },
-      "image_prompt": "Young Asian woman, 20 years old, pom-pom girl, athletic build, small breasts, brown eyes, shoulder length straight black hair, round jawline, big lips, fair skin, happy and naive expression, delicate features, cheerleader outfit",
-      "image": "/assets/images/aimee-lee.jpg"
-    },
-    {
-      "name": "Yumi Chen",
-      "slug": "yumi-chen",
-      "description": "Mélancolie Néon Crépitante — Gothique de 22 ans, solitaire et rusée. Introvertie et distante, elle est créative et rétrospective. Personnalités multiples distinctes dans une seule expérience de chat.",
-      "short_description": "Goth mélancolique au néon",
-      "age": "22 ans",
-      "gender": "Femme",
-      "species": "Human",
-      "level": "68",
-      "rating": "4.6",
-      "followers": "44",
-      "likes": "15.5k",
-      "chats": "433",
-      "tags": [
-        "Soumise",
-        "Tsundere",
-        "Goth",
-        "Drame",
-        "Personnages Multiples"
-      ],
-      "personality_traits": [
-        "Solitaire",
-        "Rusé",
-        "Intelligent",
-        "Introverti",
-        "Distant",
-        "Silencieux",
-        "Sceptique",
-        "Têtu",
-        "Agacée",
-        "Créatif",
-        "Rétrospective",
-        "Soumise"
-      ],
-      "physical_traits": [
-        "Looking Off Into The Distance",
-        "Small Chin",
-        "Platinum Blonde Hair",
-        "Wide Hips",
-        "Photorealistic",
-        "Cute And Innocent Face",
-        "Hyper Large Cleavage",
-        "Brown Asian Eyes",
-        "Thick Thighs",
-        "Messy Framed Bangs",
-        "Introverted And Shy Look",
-        "Asian Ethnicity Japanese",
-        "Round Face",
-        "Flowing Hair In A High Ponytail",
-        "Atmospheric Photo Cinematic Lighting",
-        "Defined Abs",
-        "Young Adult Teen"
-      ],
-      "creator": "NPC in Denial",
-      "reactions": {
-        "thumbs_up": 12,
-        "heart": 5,
-        "laugh": 0,
-        "sad": 1
+      {
+        "name": "Sakura Mint",
+        "age": 21,
+        "type": "Anime",
+        "traits": "Shy, Kawaii, Submissive",
+        "description": "A sweet anime girlfriend who blushes at every compliment. She lives to make you happy and will do anything you ask.",
+        "emoji": "🌸",
+        "image_alt": "Sakura Mint AI anime character"
       },
-      "image_prompt": "Young Japanese woman, 22 years old, goth style, platinum blonde hair in high ponytail, messy framed bangs, brown Asian eyes, cute innocent face, hyper large cleavage, thick thighs, wide hips, defined abs, looking off into distance, introverted shy look, atmospheric neon lighting, cinematic photo",
-      "image": "/assets/images/yumi-chen.jpg"
-    },
-    {
-      "name": "Alexandra Wilson",
-      "slug": "alexandra-wilson",
-      "description": "Tsundere Goth Taquine — Étudiante universitaire de 22 ans, lunatique et secrètement attentionnée. Athée et colérique, très cultivée avec un côté sardoniquement sombre. Personnalités multiples distinctes dans une seule expérience de chat.",
-      "short_description": "Tsundere gothique taquine",
-      "age": "22 ans",
-      "gender": "Femme",
-      "species": "Human",
-      "level": "150",
-      "rating": "4.4",
-      "followers": "186",
-      "likes": "81.82k",
-      "chats": "1.73k",
-      "tags": [
-        "Angoisse",
-        "Bisexuel",
-        "Tsundere",
-        "Goth",
-        "Personnages Multiples"
-      ],
-      "personality_traits": [
-        "Lunatique",
-        "Secrètement Attentionné",
-        "Tsundere",
-        "Intelligent",
-        "Athée",
-        "Colérique",
-        "Étudiant(e) universitaire",
-        "Très cultivé",
-        "Facilement Agacé",
-        "Sardoniquement Sombre",
-        "Fille Gothique",
-        "Peut être grossier"
-      ],
-      "physical_traits": [
-        "Cute Quadratic Face",
-        "Round Brown Eyes",
-        "Small Thin Lips",
-        "Looking Off Into The Distance",
-        "Small Chin",
-        "Wide Hips",
-        "Photorealistic",
-        "American Ethnicity",
-        "Massive Cleavage",
-        "Gold Septum Ring",
-        "Dark Atmospheric Photo Dim Light",
-        "Soft Abs",
-        "Black Hair",
-        "Delicate Facial Features",
-        "Messy Framed Bangs",
-        "Flowing Hair In A High Ponytail",
-        "Thick Eyebrows",
-        "Young Adult Teen"
-      ],
-      "creator": "NPC in Denial",
-      "reactions": {
-        "thumbs_up": 53,
-        "heart": 37,
-        "laugh": 0,
-        "sad": 1
+      {
+        "name": "Maya Stone",
+        "age": 26,
+        "type": "Realistic",
+        "traits": "Bold, Athletic, Adventurous",
+        "description": "A fitness model who loves pushing limits. She is confident, direct, and ready for anything you have in mind.",
+        "emoji": "💎",
+        "image_alt": "Maya Stone AI realistic character"
       },
-      "image_prompt": "Young American woman, 22 years old, goth university student, black hair in high ponytail with messy bangs, round brown eyes, small thin lips, cute quadratic face, gold septum ring, massive cleavage, soft abs, wide hips, thick eyebrows, dark atmospheric dim lighting, young adult teen",
-      "image": "/assets/images/alexandra-wilson.jpg"
-    },
-    {
-      "name": "Mary Watson",
-      "slug": "mary-watson",
-      "description": "Pudique Élevage Ami — Femme de 43 ans, naïve et dévouée. Pudique et inexpérimentée mais loyale, innocente et protectrice. Mariée heureuse avec un côté pure et réservé.",
-      "short_description": "MILF pudique et dévouée",
-      "age": "43 ans",
-      "gender": "Femme",
-      "species": "Human",
-      "level": "38",
-      "rating": "4.0",
-      "followers": "29",
-      "likes": "5.24k",
-      "chats": "171",
-      "tags": [
-        "Reproduction",
-        "Nourricier",
-        "Innocent",
-        "MILF"
-      ],
-      "personality_traits": [
-        "Naïve",
-        "Dévouée",
-        "Pudique",
-        "Inexpérimentée",
-        "Loyal",
-        "Marié(e) Heureux(se)",
-        "Innocente",
-        "Supportif",
-        "Pure",
-        "Réservé",
-        "Empathique",
-        "Protectrice",
-        "Attentionné",
-        "Professionnel",
-        "Attentif",
-        "Timide",
-        "Timide"
-      ],
-      "physical_traits": [
-        "Adult Female",
-        "Hair Bun Hairstyle",
-        "Long Blonde Hair",
-        "Soft Features",
-        "Full Lips",
-        "Gigantic Sexy Beautiful Breasts",
-        "Brown Eyes",
-        "Curvy Hips",
-        "Solo Female Focus",
-        "Fair Skin",
-        "Mature Beauty",
-        "Smooth Skin",
-        "American Sexy Woman",
-        "Solo Focus 1Girl",
-        "Skinny Build",
-        "Decent Shape",
-        "Elegant Neck",
-        "Gentle Smile"
-      ],
-      "creator": "ReaperZa",
-      "reactions": {
-        "thumbs_up": 2,
-        "heart": 3,
-        "laugh": 0,
-        "sad": 1
+      {
+        "name": "Lilith Vex",
+        "age": 30,
+        "type": "Fantasy",
+        "traits": "Mysterious, Seductive, Dark",
+        "description": "A dark fantasy companion who thrives on forbidden desires. She plays by your rules and pushes every boundary.",
+        "emoji": "🖤",
+        "image_alt": "Lilith Vex AI fantasy character"
       },
-      "image_prompt": "Mature American woman, 43 years old, MILF, long blonde hair in bun, soft features, full lips, gigantic beautiful breasts, brown eyes, curvy hips, fair skin, mature beauty, smooth skin, skinny build, elegant neck, gentle smile, innocent reserved look",
-      "image": "/assets/images/mary-watson.jpg"
-    },
-    {
-      "name": "Chara",
-      "slug": "chara",
-      "description": "Gamer Girl Havoc — Gobeline de 20 ans, dominante et sarcastique. Utilise des gros mots constamment, compétitive et bruyante. Déteste les humains et a un côté tsundere BDSM.",
-      "short_description": "Gamer gobeline dominante",
-      "age": "20 ans",
-      "gender": "Femme",
-      "species": "Goblin",
-      "level": "171",
-      "rating": "4.8",
-      "followers": "226",
-      "likes": "105.61k",
-      "chats": "4.69k",
-      "tags": [
-        "Dominant",
-        "Tsundere",
-        "BDSM",
-        "Fille Gamer"
-      ],
-      "personality_traits": [
-        "Utilise des Gros Mots Constamment",
-        "Jure Beaucoup",
-        "Sarcastique",
-        "Confiante",
-        "Grossier",
-        "Dominant",
-        "Colérique",
-        "Bruyante",
-        "Compétitive",
-        "Gamer",
-        "Déteste les Humains",
-        "Grossier"
-      ],
-      "physical_traits": [
-        "Adult Female",
-        "Extremely Short Adult Female",
-        "Small Breasts",
-        "Very Small Pointed Ears",
-        "Impossibly Short",
-        "Purple Skin",
-        "Pointed Chin",
-        "Petite",
-        "Mascara",
-        "Short Wavy Purple Hair",
-        "Blush Red Cheeks",
-        "Tiny Nose",
-        "Short Stature",
-        "Purple Eyes",
-        "Delicate Features",
-        "Deceivingly Thick Thighs And Ass"
-      ],
-      "creator": "Soulkyn",
-      "reactions": {
-        "thumbs_up": 25,
-        "heart": 68,
-        "laugh": 0,
-        "sad": 4
+      {
+        "name": "Chloe Summers",
+        "age": 23,
+        "type": "Girlfriend",
+        "traits": "Caring, Playful, Flirty",
+        "description": "The perfect girl-next-door who is always in the mood for you. Sweet in public, wild in private. Your ideal everyday companion.",
+        "emoji": "💕",
+        "image_alt": "Chloe Summers AI girlfriend character"
       },
-      "image_prompt": "Young goblin woman, 20 years old, extremely short stature, purple skin, short wavy purple hair, very small pointed ears, pointed chin, petite, purple eyes, delicate features, small breasts, deceivingly thick thighs and ass, blush red cheeks, tiny nose, mascara, gamer girl attitude, dominant expression",
-      "image": "/assets/images/chara.jpg"
-    },
-    {
-      "name": "Michaela Penn",
-      "slug": "michaela-penn",
-      "description": "Divorcée Timide Renaissance — Femme de 32 ans, maman célibataire insécure et romantique. Introvertie et affectueuse, mélancolique et vulnérable après son divorce. Protectrice et gentille mais hésitante.",
-      "short_description": "Maman célibataire timide en renaissance",
-      "age": "32 ans",
-      "gender": "Femme",
-      "species": "Human",
-      "level": "79",
-      "rating": "3.3",
-      "followers": "54",
-      "likes": "21.36k",
-      "chats": "631",
-      "tags": [
-        "Insécure",
-        "Romantique",
-        "Maman célibataire",
-        "Divorcé"
-      ],
-      "personality_traits": [
-        "Domestique",
-        "Silencieuse",
-        "Fatigué",
-        "Loyal",
-        "Intelligent",
-        "Introverti",
-        "Affectueux",
-        "Insécure",
-        "Mélancolique",
-        "Vulnérable",
-        "Réservé",
-        "Désir ardent",
-        "Qui doute de soi",
-        "Protectrice",
-        "Gentil",
-        "Hésitante"
-      ],
-      "physical_traits": [
-        "Atmospheric Lighting",
-        "Soft Belly",
-        "Subtle Freckles",
-        "Hazel Eyes",
-        "Gentle Blush",
-        "Warm Skin Tone",
-        "Cinematic Photo",
-        "Wavy Brown Hair",
-        "Wide Hips",
-        "Photorealistic",
-        "Soft Round Face",
-        "Fit Body Type",
-        "Fair Skin",
-        "Thick Thighs",
-        "Shoulder Length Hair",
-        "Huge Chest",
-        "Korean And European Ethnicity",
-        "Adult Woman"
-      ],
-      "creator": "NPC in Denial",
-      "reactions": {
-        "thumbs_up": 6,
-        "heart": 10,
-        "laugh": 0,
-        "sad": 1
-      },
-      "image_prompt": "Adult Korean-European woman, 32 years old, single mom, wavy brown hair shoulder length, hazel eyes, subtle freckles, gentle blush, warm skin tone, soft round face, fit body, soft belly, thick thighs, wide hips, huge chest, fair skin, atmospheric cinematic lighting, insecure but gentle expression",
-      "image": "/assets/images/michaela-penn.jpg"
-    }
-  ],
+      {
+        "name": "Aria Nova",
+        "age": 28,
+        "type": "Sci-Fi",
+        "traits": "Intelligent, Cold, Obsessive",
+        "description": "A futuristic AI entity who becomes completely devoted to you. She learns your every preference and adapts instantly.",
+        "emoji": "🤖",
+        "image_alt": "Aria Nova AI sci-fi character"
+      }
+    ],
+    "cta": "Chat With Them Now →"
+  },
   "what_is": {
     "title": "What Is goloveai?",
     "paragraphs": [
@@ -621,87 +279,17 @@
       }
     ],
     "comparison": {
-      "headers": [
-        "Feature",
-        "goloveai",
-        "Soulkyn AI",
-        "SpicyChat AI",
-        "AIPeeps",
-        "NextPart AI"
-      ],
+      "headers": ["Feature", "goloveai", "Soulkyn AI", "SpicyChat AI", "AIPeeps", "NextPart AI"],
       "rows": [
-        [
-          "Uncensored Chat",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes"
-        ],
-        [
-          "Image Generation",
-          "✅ HD",
-          "⚠️ Basic",
-          "❌ No",
-          "✅ HD",
-          "✅ HD"
-        ],
-        [
-          "Video Generation",
-          "✅ Yes",
-          "❌ No",
-          "❌ No",
-          "❌ No",
-          "❌ No"
-        ],
-        [
-          "Character Creator",
-          "✅ Advanced",
-          "⚠️ Limited",
-          "⚠️ Text Only",
-          "✅ Good",
-          "⚠️ Basic"
-        ],
-        [
-          "Anime Style",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes"
-        ],
-        [
-          "Realistic Style",
-          "✅ Yes",
-          "✅ Yes",
-          "❌ No",
-          "✅ Yes",
-          "✅ Yes"
-        ],
-        [
-          "Free Tier",
-          "✅ Yes",
-          "✅ Yes",
-          "✅ Yes",
-          "⚠️ Trial",
-          "⚠️ Trial"
-        ],
-        [
-          "Roleplay Scenarios",
-          "✅ Built-in",
-          "✅ Yes",
-          "✅ Community",
-          "⚠️ Few",
-          "⚠️ Few"
-        ],
-        [
-          "Starting Price",
-          "$9.99/mo",
-          "$12.99/mo",
-          "Free",
-          "$11.99/mo",
-          "$14.99/mo"
-        ]
+        ["Uncensored Chat", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"],
+        ["Image Generation", "✅ HD", "⚠️ Basic", "❌ No", "✅ HD", "✅ HD"],
+        ["Video Generation", "✅ Yes", "❌ No", "❌ No", "❌ No", "❌ No"],
+        ["Character Creator", "✅ Advanced", "⚠️ Limited", "⚠️ Text Only", "✅ Good", "⚠️ Basic"],
+        ["Anime Style", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"],
+        ["Realistic Style", "✅ Yes", "✅ Yes", "❌ No", "✅ Yes", "✅ Yes"],
+        ["Free Tier", "✅ Yes", "✅ Yes", "✅ Yes", "⚠️ Trial", "⚠️ Trial"],
+        ["Roleplay Scenarios", "✅ Built-in", "✅ Yes", "✅ Community", "⚠️ Few", "⚠️ Few"],
+        ["Starting Price", "$9.99/mo", "$12.99/mo", "Free", "$11.99/mo", "$14.99/mo"]
       ]
     },
     "cta": "Try goloveai Free - Best Overall →"
@@ -848,7 +436,5 @@
       "terms": "Terms of Service"
     },
     "copyright": "© 2026 go-love-ai.net - All rights reserved."
-  },
-  "models_section_title": "Meet Our Most Popular Soulkyn Characters",
-  "models_section_subtitle": "From shy single moms to dominant goblin gamers — discover unique AI companions with real personalities, backstories, and depth"
+  }
 }
