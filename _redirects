@@ -1,0 +1,12 @@
+# Cloudflare Pages Redirects
+# Format: /source /destination [status]
+# 302 = temporary redirect (preserves referrer, good for affiliate links)
+
+# Main affiliate link (go-love-ai.net)
+/go/mylovely https://goloveai.com/anonAuth?ref=hwict7 302
+
+# Alternative affiliate links (from Cluster 3)
+/go/soulkyn https://soulkyn.com/?_go=soulkynai 302
+/go/spicychat https://spicychat.ai?ref=odziy2m 302
+/go/aipeeps https://aipeeps.com?fpr=aippeps 302
+/go/nextpart https://nextpart.ai/?invite_code=1073 302
