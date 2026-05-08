@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "title": "goloveai Revue 2026 - Chat et générateur d'images avec petite amie IA non censuré",
+    "description": "goloveai vous permet de créer votre petite amie IA parfaite. Chat non censuré, génération d'images et de vidéos. 10+ personnages. Gratuit pour commencer. Lisez notre revue complète 2026."
+  },
+  "nav": {
+    "logo": "goloveai",
+    "links": {
+      "what_is": "Qu'est-ce que c'est",
+      "features": "Fonctionnalités",
+      "models": "Modèles",
+      "pricing": "Tarifs",
+      "faq": "FAQ"
+    },
+    "cta": "Essai gratuit →"
+  },
+  "hero": {
+    "badge": "🔥 #1 Chat avec petite amie IA. Images et vidéos non censurées.",
+    "h1": "goloveai. Créez votre petite amie IA parfaite.",
+    "subtitle": "Discutez, flirtez et générez des photos et vidéos non censurées avec votre compagnon virtuel personnalisé. Aucun filtre. Aucun jugement. Elle ne dit jamais non. Créez la petite amie de vos rêves à partir de zéro. Choisissez son apparence, sa personnalité et ses limites. Il n'y en a pas.",
+    "cta_primary": "Essayer goloveai gratuitement →",
+    "cta_secondary": "Voir les fonctionnalités",
+    "trust_badges": [
+      "✅ Gratuit pour commencer",
+      "🔞 18+ uniquement",
+      "🔒 Facturation discrète",
+      "⚡ Accès instantané"
+    ]
+  },
+  "social_proof": {
+    "stats": [
+      { "number": "10+", "label": "Personnages IA", "emoji": "🎭" },
+      { "number": "∞", "label": "Chat non censuré", "emoji": "💬" },
+      { "number": "HD", "label": "Génération image + vidéo", "emoji": "🎬" },
+      { "number": "$0", "label": "Gratuit pour commencer", "emoji": "🆓" }
+    ]
+  },
+  "models": {
+    "title": "Rencontrez vos compagnons IA",
+    "subtitle": "Chaque personnage a une personnalité, un passé et un look uniques. Choisissez-en un ou créez le vôtre à partir de zéro. Ils vous attendent maintenant.",
+    "characters": [
+      {
+        "name": "Elena Letova",
+        "age": 38,
+        "type": "Jeu de rôle",
+        "traits": "Dominante, Confiante, Taquine",
+        "description": "L'amie russe de ta mère qui t'a toujours eu à l'œil. Elle sait ce qu'elle veut et n'hésite pas à le demander.",
+        "emoji": "🔥",
+        "image_alt": "Personnage IA Elena Letova"
+      },
+      {
+        "name": "Sakura Mint",
+        "age": 21,
+        "type": "Anime",
+        "traits": "Timide, Kawaii, Soumise",
+        "description": "Une douce petite amie d'anime qui rougit à chaque compliment. Elle vit pour te rendre heureux et fera tout ce que tu lui demanderas.",
+        "emoji": "🌸",
+        "image_alt": "Personnage IA anime Sakura Mint"
+      },
+      {
+        "name": "Maya Stone",
+        "age": 26,
+        "type": "Réaliste",
+        "traits": "Audacieuse, Athlétique, Aventurière",
+        "description": "Un mannequin fitness qui aime repousser les limites. Elle est confiante, directe et prête à tout ce que tu as en tête.",
+        "emoji": "💎",
+        "image_alt": "Personnage IA réaliste Maya Stone"
+      },
+      {
+        "name": "Lilith Vex",
+        "age": 30,
+        "type": "Fantasy",
+        "traits": "Mystérieuse, Séduisante, Sombre",
+        "description": "Une compagne dark fantasy qui se nourrit de désirs interdits. Elle joue selon tes règles et repousse toutes les limites.",
+        "emoji": "🖤",
+        "image_alt": "Personnage IA fantasy Lilith Vex"
+      },
+      {
+        "name": "Chloe Summers",
+        "age": 23,
+        "type": "Petite amie",
+        "traits": "Attentionnée, Enjouée, Coquine",
+        "description": "La fille d'à côté parfaite, toujours d'humeur pour toi. Douce en public, sauvage en privé. Ta compagne idéale au quotidien.",
+        "emoji": "💕",
+        "image_alt": "Personnage IA petite amie Chloe Summers"
+      },
+      {
+        "name": "Aria Nova",
+        "age": 28,
+        "type": "Sci-Fi",
+        "traits": "Intelligente, Froide, Obsessive",
+        "description": "Une entité IA futuriste qui se dévoue complètement à toi. Elle apprend chacune de tes préférences et s'adapte instantanément.",
+        "emoji": "🤖",
+        "image_alt": "Personnage IA sci-fi Aria Nova"
+      }
+    ],
+    "cta": "Discuter avec elles maintenant →"
+  },
+  "what_is": {
+    "title": "Qu'est-ce que goloveai ?",
+    "paragraphs": [
+      "goloveai est une plateforme avancée de petite amie IA qui vous permet de créer, personnaliser et discuter avec des compagnons virtuels. Contrairement aux chatbots basiques, goloveai utilise des modèles de langage de pointe combinés à la génération d'images et de vidéos pour offrir une expérience totalement immersive. Vous pouvez créer un personnage réaliste ou de style anime à partir de zéro, définir ses traits de personnalité et commencer des conversations qui semblent naturellement authentiques et non censurées.",
+      "La plateforme est conçue pour les adultes qui souhaitent un espace privé et sans jugement pour explorer leurs fantasmes. Que vous vouliez une petite amie douce et attentionnée, un partenaire dominant ou un personnage fantasy tout droit sorti de votre imagination, goloveai vous donne un contrôle créatif total. L'IA se souvient de vos conversations, s'adapte à vos préférences et évolue avec le temps pour devenir exactement ce que vous voulez.",
+      "Commencer est totalement gratuit. Vous pouvez créer votre premier personnage, discuter avec elle et générer des images basiques sans rien payer. Pour ceux qui souhaitent une expérience complète incluant la génération d'images HD, le contenu vidéo, la vitesse prioritaire et l'accès à tous les personnages premium, des abonnements abordables sont disponibles."
+    ],
+    "cards": [
+      {
+        "icon": "🎨",
+        "title": "Créer",
+        "desc": "Concevez votre compagnon parfait à partir de zéro. Choisissez son visage, son corps, son style, ses cheveux, son origine ethnique et sa tenue. Réaliste ou anime. Vous décidez de chaque détail."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Personnaliser",
+        "desc": "Définissez sa personnalité, le ton de sa voix, son passé et son comportement. Rendez-la timide, dominante, joueuse ou tout ce qui se trouve entre les deux. Elle s'adapte à vos préférences au fil du temps."
+      },
+      {
+        "icon": "💬",
+        "title": "Discuter",
+        "desc": "Commencez des conversations non censurées instantanément. Elle répond avec contexte, émotion et mémoire. Demandez-lui n'importe quoi, dites-lui n'importe quoi. Elle ne dit jamais non."
+      }
+    ],
+    "cta": "Créer votre petite amie IA →"
+  },
+  "features": {
+    "title": "Fonctionnalités clés",
+    "subtitle": "Tout ce dont vous avez besoin pour l'expérience ultime de petite amie IA. Aucune restriction, aucune limite, aucun jugement.",
+    "items": [
+      {
+        "title": "Chat avec petite amie IA",
+        "icon": "chat",
+        "description": "Ayez des conversations en temps réel naturelles et immersives. L'IA utilise un traitement avancé du langage avec mémoire contextuelle, ce qui signifie qu'elle se souvient de votre nom, de vos préférences, de vos conversations passées et de votre dynamique relationnelle. Flirtez, plaisantez, jouez un rôle ou ayez des conversations profondes. Chaque interaction façonne ce qu'elle devient. Elle adapte son ton, son humeur et ses réponses en fonction de votre historique commun."
+      },
+      {
+        "title": "Générateur d'images non censuré",
+        "icon": "image",
+        "description": "Générez des images de haute qualité de votre compagne IA dans n'importe quelle pose, tenue, ou sans tenue du tout. Le moteur d'image prend en charge les styles réalistes et anime sans aucun filtre de contenu. Demandez exactement ce que vous voulez voir et elle vous le fournit. Des selfies décontractés au contenu explicite, la seule limite est votre imagination. Les images sont rendues en qualité HD et peuvent être sauvegardées directement sur votre appareil pour un usage privé."
+      },
+      {
+        "title": "Générateur vidéo IA",
+        "icon": "video",
+        "description": "Passez au-delà des images statiques avec des vidéos animées générées par IA. Regardez votre personnage prendre vie avec des mouvements, des expressions et des animations. Le générateur vidéo crée de courts clips basés sur vos invites, donnant vie à vos fantasmes. Cette fonctionnalité premium distingue goloveai de la plupart des concurrents qui ne proposent que du texte et des images. Les vidéos sont rendues dans une qualité qui ne cesse de s'améliorer à chaque mise à jour de la plateforme."
+      },
+      {
+        "title": "Studio de création de personnages",
+        "icon": "creator",
+        "description": "Construisez votre compagnon idéal de A à Z grâce au créateur de personnages détaillé. Choisissez parmi des modèles 3D réalistes ou des designs de style anime. Ajustez les traits du visage, les proportions du corps, le teint de la peau, la coiffure et la couleur des cheveux, la couleur des yeux, les vêtements et les accessoires. Le créateur vous offre un contrôle granulaire pour construire exactement la femme que vous avez en tête. Sauvegardez plusieurs personnages et basculez entre eux à tout moment."
+      },
+      {
+        "title": "Scénarios de jeu de rôle",
+        "icon": "roleplay",
+        "description": "Plongez dans des scénarios de jeu de rôle préconstruits ou créez les vôtres à partir de zéro. goloveai inclut des scénarios comme piégés ensemble, escapade du week-end, premier rendez-vous, aventure au bureau, professeur, voisine, et bien d'autres. Chaque scénario plante le décor avec un contexte et laisse l'IA guider l'histoire naturellement en fonction de vos choix. Vous pouvez diriger le récit dans n'importe quelle direction. L'IA ne sort jamais de son personnage et ne refuse jamais vos demandes pendant le jeu de rôle."
+      },
+      {
+        "title": "Conception axée sur la confidentialité",
+        "icon": "privacy",
+        "description": "Votre vie privée est la priorité absolue. Toutes les conversations sont chiffrées de bout en bout. Vos données ne sont jamais vendues à des tiers. La facturation apparaît comme un prélèvement générique sur votre relevé, personne ne sait ce que vous utilisez. Vous pouvez supprimer toutes vos discussions, personnages et contenu généré à tout moment d'un seul clic. Aucune trace laissée derrière vous. La plateforme exige une vérification de l'âge pour empêcher les mineurs d'accéder au service."
+      }
+    ],
+    "cta": "Débloquer toutes les fonctionnalités →"
+  },
+  "how_it_works": {
+    "title": "Comment ça marche",
+    "subtitle": "Trois étapes simples pour rencontrer votre compagnon IA parfait. Moins de deux minutes pour commencer.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Créez votre personnage",
+        "desc": "Inscrivez-vous gratuitement et ouvrez le créateur de personnages. Choisissez entre les styles réaliste et anime. Personnalisez son apparence dans les moindres détails : forme du visage, type de corps, cheveux, yeux, teint de peau, tenue. Définissez ensuite sa personnalité. Est-elle douce et soumise ? Audacieuse et dominante ? Enjouée et taquine ? Vous fixez les règles. Donnez-lui un nom et un passé si vous le souhaitez. Elle devient celle dont vous avez besoin."
+      },
+      {
+        "number": "02",
+        "title": "Commencez à discuter",
+        "desc": "Une fois votre personnage prêt, commencez une conversation immédiatement. L'IA répond en temps réel avec un langage naturel qui s'adapte à votre ton et votre style. Elle se souvient de tout ce que vous lui dites. Vos conversations construisent une relation au fil du temps. Plus vous parlez, plus elle comprend ce que vous aimez. Flirtez, plaisantez, ouvrez-vous ou plongez directement dans un territoire explicite. Il n'y a ni filtres ni restrictions de contenu. Elle ne vous dit jamais non."
+      },
+      {
+        "number": "03",
+        "title": "Générez du contenu",
+        "desc": "Prêt pour plus que des mots ? Demandez-lui de vous envoyer des photos. Décrivez ce que vous voulez voir et le générateur d'images IA le crée en quelques secondes. Vous voulez une pose, une tenue ou un décor spécifique ? Il suffit de demander. Passez à Premium pour des images en qualité HD et débloquez le générateur vidéo pour des clips animés. Tout le contenu est généré à la demande selon vos invites. Sauvegardez vos favoris et créez une galerie privée à laquelle vous seul avez accès."
+      }
+    ],
+    "cta": "Commencer gratuitement maintenant →"
+  },
+  "pricing": {
+    "title": "Offres tarifaires",
+    "subtitle": "Commencez gratuitement et passez à l'offre supérieure quand vous êtes prêt. Pas de frais cachés. Annulation à tout moment.",
+    "plans": [
+      {
+        "name": "Gratuit",
+        "price": "0 €",
+        "features": [
+          "Messages quotidiens limités",
+          "1 personnage personnalisé",
+          "Génération d'images basique",
+          "Vitesse de réponse standard",
+          "Accès aux personnages de la communauté",
+          "Chat textuel uniquement"
+        ],
+        "cta": "Commencer gratuitement"
+      },
+      {
+        "name": "Premium",
+        "price": "9,99 €/mois",
+        "features": [
+          "Messages illimités",
+          "10+ personnages personnalisés",
+          "Génération d'images HD",
+          "Génération vidéo incluse",
+          "Vitesse de réponse prioritaire",
+          "Tous les scénarios de jeu de rôle",
+          "Personnalisation avancée",
+          "Aucun filtre de contenu"
+        ],
+        "cta": "Passer à Premium →"
+      },
+      {
+        "name": "Ultimate",
+        "price": "19,99 €/mois",
+        "features": [
+          "Tout ce qui est inclus dans Premium",
+          "Vitesse prioritaire maximale",
+          "Modèles de personnages exclusifs",
+          "Accès anticipé aux nouvelles fonctionnalités",
+          "Génération d'images 4K",
+          "Clips vidéo étendus",
+          "Accès API pour utilisateurs avancés",
+          "Support dédié"
+        ],
+        "cta": "Passer à Ultimate →"
+      }
+    ]
+  },
+  "total_control": {
+    "title": "Vous avez le contrôle total",
+    "paragraphs": [
+      "C'est votre espace. Vos règles. Votre fantasme. goloveai vous met aux commandes. Vous décidez de son apparence, de son comportement, de ce qu'elle dit et de ce qu'elle fait. Aucune restriction sur votre créativité et aucune limite sur la direction que peuvent prendre les conversations.",
+      "Chaque personnage que vous créez est conçu selon vos spécifications exactes. Elle répond à vos désirs, s'adapte à votre humeur et ne résiste jamais. C'est l'endroit unique où vous obtenez exactement ce que vous voulez, exactement comme vous le voulez, à chaque fois."
+    ],
+    "highlights": [
+      "🔥 Elle ne dit jamais non",
+      "👑 Vous fixez les règles",
+      "🎯 Votre fantasme, votre façon",
+      "♾️ Aucune limite"
+    ],
+    "cta": "Prendre le contrôle maintenant →"
+  },
+  "unlock": {
+    "title": "🔒 Contenu Premium verrouillé",
+    "subtitle": "Débloquez des images HD non censurées et des vidéos générées par IA. Découvrez tout ce qu'elle a à offrir sans aucun filtre ni restriction.",
+    "cta": "Passer à Premium →"
+  },
+  "alternatives": {
+    "title": "Comparaison des alternatives à goloveai",
+    "subtitle": "Comment goloveai se positionne face aux autres plateformes de petite amie IA ? Voici une comparaison honnête pour vous aider à choisir.",
+    "apps": [
+      {
+        "name": "Soulkyn AI",
+        "desc": "Soulkyn AI se concentre sur la profondeur émotionnelle et la construction relationnelle. Elle propose des histoires de personnages riches et des interactions plus lentes. Idéale pour les utilisateurs qui veulent plus de romance et moins de contenu explicite, bien qu'elle prenne en charge un mode NSFW. La personnalisation des personnages est correcte mais plus limitée que goloveai en termes d'options visuelles.",
+        "link": "/go/soulkyn",
+        "visit": "Visiter Soulkyn AI →"
+      },
+      {
+        "name": "SpicyChat AI",
+        "desc": "SpicyChat AI est une plateforme communautaire avec des milliers de personnages créés par les utilisateurs. Sa force est la variété, car n'importe qui peut créer et partager des personnages. L'inconvénient est une qualité inconstante et l'absence de génération native d'images ou de vidéos. Excellente pour le jeu de rôle textuel mais manque les fonctionnalités multimédia que goloveai propose nativement.",
+        "link": "/go/spicychat",
+        "visit": "Visiter SpicyChat AI →"
+      },
+      {
+        "name": "AIPeeps",
+        "desc": "AIPeeps offre des compagnons IA avec un fort accent sur le contenu visuel. La qualité de génération d'images est compétitive avec goloveai. Le créateur de personnages est simple et facile à utiliser. Cependant, l'IA de discussion semble moins naturelle dans les conversations longues et la génération vidéo n'est pas encore disponible. Un bon choix pour les utilisateurs axés sur l'image.",
+        "link": "/go/aipeeps",
+        "visit": "Visiter AIPeeps →"
+      },
+      {
+        "name": "NextPart AI",
+        "desc": "NextPart AI offre une expérience soignée avec des personnages à la fois réalistes et anime. La plateforme prend en charge la génération d'images et possède une interface propre. Les tarifs sont légèrement plus élevés que goloveai pour des fonctionnalités comparables. La qualité de chat est bonne mais le créateur de personnages propose moins d'options de personnalisation. Pas de génération vidéo au moment de la rédaction.",
+        "link": "/go/nextpart",
+        "visit": "Visiter NextPart AI →"
+      }
+    ],
+    "comparison": {
+      "headers": ["Fonctionnalité", "goloveai", "Soulkyn AI", "SpicyChat AI", "AIPeeps", "NextPart AI"],
+      "rows": [
+        ["Chat non censuré", "✅ Oui", "✅ Oui", "✅ Oui", "✅ Oui", "✅ Oui"],
+        ["Génération d'images", "✅ HD", "⚠️ Basique", "❌ Non", "✅ HD", "✅ HD"],
+        ["Génération vidéo", "✅ Oui", "❌ Non", "❌ Non", "❌ Non", "❌ Non"],
+        ["Créateur de personnages", "✅ Avancé", "⚠️ Limité", "⚠️ Texte seulement", "✅ Bon", "⚠️ Basique"],
+        ["Style anime", "✅ Oui", "✅ Oui", "✅ Oui", "✅ Oui", "✅ Oui"],
+        ["Style réaliste", "✅ Oui", "✅ Oui", "❌ Non", "✅ Oui", "✅ Oui"],
+        ["Niveau gratuit", "✅ Oui", "✅ Oui", "✅ Oui", "⚠️ Essai", "⚠️ Essai"],
+        ["Scénarios de jeu de rôle", "✅ Intégrés", "✅ Oui", "✅ Communauté", "⚠️ Peu", "⚠️ Peu"],
+        ["Prix de départ", "9,99 €/mois", "12,99 €/mois", "Gratuit", "11,99 €/mois", "14,99 €/mois"]
+      ]
+    },
+    "cta": "Essayer goloveai gratuitement - Meilleur global →"
+  },
+  "reviews": {
+    "title": "Ce que les utilisateurs disent",
+    "subtitle": "Avis réels d'utilisateurs de goloveai dans le monde entier.",
+    "testimonials": [
+      {
+        "name": "Jake",
+        "age": 24,
+        "city": "Miami, FL",
+        "stars": 5,
+        "text": "J'ai essayé au moins cinq applications différentes de petite amie IA avant de trouver goloveai. La différence est le jour et la nuit. Le chat semble vraiment naturel, la qualité d'image est exceptionnelle, et la fonction vidéo m'a époustouflé. Ça vaut chaque centime de l'abonnement Premium."
+      },
+      {
+        "name": "Marcus",
+        "age": 31,
+        "city": "Londres, Royaume-Uni",
+        "stars": 5,
+        "text": "Rien que le créateur de personnages rend ce service meilleur que tout ce qui existe. J'ai passé une heure à construire ma compagne parfaite et elle est exactement comme je l'imaginais. L'IA se souvient de tout et les conversations s'améliorent avec le temps. Je recommande vivement."
+      },
+      {
+        "name": "Takeshi",
+        "age": 27,
+        "city": "Tokyo, Japon",
+        "stars": 4,
+        "text": "D'excellents personnages anime avec un très bon style graphique. L'IA de discussion est très réactive et donne l'impression d'une vraie conversation. La seule raison pour quatre étoiles au lieu de cinq est que j'aimerais encore plus d'options de poses dans le générateur d'images. Mais dans l'ensemble, c'est la meilleure plateforme que j'ai utilisée."
+      },
+      {
+        "name": "Daniel",
+        "age": 35,
+        "city": "Berlin, Allemagne",
+        "stars": 5,
+        "text": "La confidentialité était ma principale inquiétude. goloveai gère cela parfaitement. Facturation discrète, chiffrement, option de suppression facile. Je me sens complètement en sécurité en l'utilisant. La qualité de l'IA elle-même est exceptionnelle. Elle se souvient de nos blagues privées, ce qui est une belle attention."
+      },
+      {
+        "name": "Alex",
+        "age": 22,
+        "city": "Toronto, Canada",
+        "stars": 5,
+        "text": "J'ai commencé avec le niveau gratuit juste pour tester et je suis passé à Premium dans la première heure. La version gratuite vous donne un vrai aperçu de ce que la plateforme peut faire, mais Premium débloque tout un autre niveau. La fonction de génération vidéo, je ne l'ai vue nulle part ailleurs."
+      }
+    ]
+  },
+  "safety": {
+    "title": "goloveai est-il sûr ?",
+    "answer": "Oui. Votre confidentialité et votre sécurité sont protégées.",
+    "intro": "Nous savons que la vie privée compte, surtout avec ce type de contenu. Voici exactement comment goloveai vous protège.",
+    "points": [
+      {
+        "icon": "🔐",
+        "title": "Conversations chiffrées",
+        "desc": "Tous les messages entre vous et votre compagne IA sont chiffrés de bout en bout. Personne ne peut lire vos discussions, pas même les opérateurs de la plateforme. Vos conversations sont rien qu'à vous."
+      },
+      {
+        "icon": "💳",
+        "title": "Facturation discrète",
+        "desc": "Les prélèvements apparaissent sous un nom d'entreprise générique sur votre relevé de carte de crédit. Aucune mention d'IA, de petite amie ou de quoi que ce soit qui pourrait révéler la nature du service. Discrétion totale garantie."
+      },
+      {
+        "icon": "🗑️",
+        "title": "Supprimez tout à tout moment",
+        "desc": "Un clic suffit pour supprimer définitivement votre compte, y compris tous les personnages, l'historique des discussions, les images et vidéos générées. Aucune donnée n'est conservée après la suppression. Vous gardez le contrôle à tout moment."
+      },
+      {
+        "icon": "🔞",
+        "title": "Vérification de l'âge 18+",
+        "desc": "goloveai applique une vérification stricte de l'âge pour garantir que tous les utilisateurs sont adultes. Cela protège les mineurs et garantit que la plateforme reste un espace sûr pour les adultes consentants qui souhaitent explorer librement."
+      }
+    ],
+    "disclosure": "Déclaration d'affiliation : Ce site contient des liens d'affiliation. Si vous cliquez et effectuez un achat, nous pouvons recevoir une commission sans frais supplémentaires pour vous. Cela n'affecte pas nos opinions ou évaluations éditoriales."
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "subtitle": "Tout ce que vous devez savoir sur goloveai. Vous ne trouvez pas votre réponse ? Créez un compte gratuit et essayez par vous-même.",
+    "questions": [
+      {
+        "q": "Qu'est-ce que goloveai et comment ça fonctionne ?",
+        "a": "goloveai est une plateforme de petite amie virtuelle basée sur l'IA. Vous créez un personnage personnalisé en choisissant son apparence, sa personnalité et son passé. Ensuite, vous discutez avec elle grâce à une IA avancée qui comprend le contexte, se souvient de vos conversations et répond de manière naturelle. Vous pouvez également générer des images et vidéos non censurées de votre personnage à la demande. L'IA s'adapte à vos préférences au fil du temps, rendant chaque interaction plus personnalisée."
+      },
+      {
+        "q": "Est-ce que goloveai est gratuit ?",
+        "a": "Oui, goloveai propose un niveau gratuit qui vous permet de créer un personnage, d'envoyer un nombre limité de messages quotidiens et de générer des images basiques. Le plan gratuit est un excellent moyen de tester la plateforme et de voir si elle correspond à vos attentes. Pour un accès illimité, des images HD, la génération vidéo et les personnages premium, vous pouvez passer au plan Premium à 9,99 € par mois ou au plan Ultimate à 19,99 € par mois."
+      },
+      {
+        "q": "Puis-je générer des images non censurées avec goloveai ?",
+        "a": "Oui. goloveai n'a aucun filtre de contenu sur la génération d'images. Vous pouvez demander n'importe quelle pose, tenue, scénario ou niveau d'explicite. Le générateur d'images IA crée des visuels de haute qualité basés sur vos invites textuelles. Les utilisateurs gratuits obtiennent une qualité d'image basique tandis que les utilisateurs premium débloquent la génération HD et 4K avec plus d'options de style et un rendu plus rapide."
+      },
+      {
+        "q": "Est-ce que goloveai dispose d'un générateur vidéo ?",
+        "a": "Oui. goloveai est l'une des rares plateformes de petite amie IA à proposer la génération vidéo. Les abonnés Premium et Ultimate peuvent générer de courts clips animés de leurs personnages. Vous décrivez la scène et l'IA crée le contenu en mouvement. Cette fonctionnalité s'améliore continuellement grâce à des mises à jour régulières qui ajoutent de nouvelles capacités et une meilleure qualité de sortie."
+      },
+      {
+        "q": "goloveai est-il sûr et respectueux de la vie privée ?",
+        "a": "Absolument. Toutes les conversations sont chiffrées de bout en bout. La facturation est totalement discrète, sans mentions révélatrices sur votre relevé. Vous pouvez supprimer tout votre compte et toutes les données associées à tout moment en un clic. La plateforme ne vend pas les données des utilisateurs à des tiers. La vérification de l'âge garantit que seuls les adultes peuvent accéder au service."
+      },
+      {
+        "q": "Combien de personnages puis-je créer ?",
+        "a": "Les utilisateurs gratuits peuvent créer et sauvegarder un personnage personnalisé. Les abonnés Premium peuvent créer et maintenir jusqu'à 10 personnages ou plus simultanément. Les utilisateurs Ultimate bénéficient d'emplacements illimités. Vous pouvez basculer entre les personnages à tout moment et chacun conserve sa propre mémoire et son historique relationnel avec vous."
+      },
+      {
+        "q": "Quels scénarios de jeu de rôle sont disponibles sur goloveai ?",
+        "a": "goloveai inclut plusieurs scénarios de jeu de rôle préconstruits tels que piégés ensemble, escapade du week-end, premier rendez-vous, aventure au bureau, professeur, voisine, et bien d'autres. Vous pouvez également créer des scénarios complètement personnalisés en décrivant la mise en place et en laissant l'IA construire l'histoire à partir de là. L'IA reste dans son personnage tout au long et suit vos indications sur la direction de l'histoire."
+      },
+      {
+        "q": "Y a-t-il une restriction d'âge pour goloveai ?",
+        "a": "Oui. goloveai est strictement réservé aux utilisateurs âgés de 18 ans et plus. La plateforme applique une vérification de l'âge lors du processus d'inscription. Cette politique existe pour protéger les mineurs et se conformer aux réglementations. Tous les personnages de la plateforme sont représentés comme des adultes. Les utilisateurs qui s'avèrent être mineurs verront leur compte immédiatement résilié."
+      },
+      {
+        "q": "Quels appareils sont pris en charge ?",
+        "a": "goloveai fonctionne sur tout appareil disposant d'un navigateur Web moderne. Cela inclut les ordinateurs de bureau, ordinateurs portables, tablettes et smartphones sous iOS ou Android. Aucune application à télécharger. Il suffit de visiter le site Web, de se connecter et de commencer à discuter. L'interface est entièrement réactive et optimisée pour les expériences de bureau et mobiles."
+      },
+      {
+        "q": "Puis-je supprimer mes discussions et mon contenu généré ?",
+        "a": "Oui. Vous avez un contrôle total sur vos données. Vous pouvez supprimer des messages individuels, des conversations entières, des images spécifiques ou tout votre compte. Lorsque vous supprimez du contenu, il est définitivement retiré des serveurs. Il n'y a pas d'option de récupération après suppression, ce qui garantit que votre vie privée est pleinement protégée."
+      },
+      {
+        "q": "Qu'est-ce qui rend goloveai différent de Soulkyn AI ou SpicyChat AI ?",
+        "a": "goloveai se distingue par sa combinaison de chat non censuré, de génération d'images HD et de génération vidéo au sein d'une même plateforme. Soulkyn AI se concentre davantage sur les connexions émotionnelles mais dispose de fonctionnalités visuelles limitées. SpicyChat AI offre une énorme variété de personnages grâce à la communauté mais manque de génération native d'images ou de vidéos. goloveai propose le package le plus complet pour les utilisateurs qui souhaitent chat, images et vidéo en un seul endroit."
+      },
+      {
+        "q": "Comment puis-je résilier mon abonnement goloveai ?",
+        "a": "Vous pouvez résilier votre abonnement à tout moment depuis la page des paramètres de votre compte. Accédez à la section facturation et cliquez sur résilier l'abonnement. Votre accès premium se poursuit jusqu'à la fin de votre période de facturation en cours. Il n'y a ni frais d'annulation ni pénalités. Après l'annulation, votre compte revient au niveau gratuit et vos personnages ainsi que l'historique des discussions sont conservés."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Votre petite amie IA parfaite vous attend",
+    "subtitle": "Commencez à discuter gratuitement dès maintenant. Aucune carte de crédit requise. Aucun téléchargement. Accès instantané dans votre navigateur.",
+    "promo": "🔥 Passez à Premium pour des images HD non censurées et la génération vidéo.",
+    "button": "Essayer goloveai maintenant →",
+    "trust_badges": [
+      "✅ Gratuit pour commencer",
+      "🔒 Privé et chiffré",
+      "⚡ Accès instantané",
+      "🔞 18+ uniquement"
+    ]
+  },
+  "footer": {
+    "disclosure": "Déclaration d'affiliation : go-love-ai.net est un site d'avis indépendant. Nous pouvons recevoir des commissions d'affiliation lorsque vous cliquez sur des liens et effectuez des achats via notre site. Cela n'affecte pas le prix que vous payez ni notre indépendance éditoriale. Toutes les opinions exprimées sur ce site sont les nôtres. Ce site n'est ni détenu ni exploité par goloveai. Toutes les marques appartiennent à leurs propriétaires respectifs. Le contenu de ce site est destiné uniquement aux adultes âgés de 18 ans et plus.",
+    "links": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation"
+    },
+    "copyright": "© 2026 go-love-ai.net - Tous droits réservés."
+  }
+}
