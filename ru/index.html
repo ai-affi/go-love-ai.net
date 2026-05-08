@@ -393,7 +393,7 @@ html{scroll-behavior:smooth}
   const ag=document.getElementById('alternatives-grid');
   if(data.alternatives?.apps&&ag){
     data.alternatives.apps.forEach(a=>{
-      ag.innerHTML+=`<a href="${a.link}" class="glass rounded-2xl p-6 block transition hover:scale-[1.02]">
+      ag.innerHTML+=`<a href="${a.link}" rel="nofollow sponsored" class="glass rounded-2xl p-6 block transition hover:scale-[1.02]">
         <h3 class="text-lg font-bold mb-2">${a.name}</h3><p class="text-sm text-gray-400 mb-3">${a.desc}</p>
         <span class="text-accent text-sm font-semibold">${a.visit||'Visit Site →'}</span></a>`;
     });
