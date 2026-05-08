@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "title": "goloveai Review 2026 - Uncensored AI Girlfriend Chat & Image Generator",
+    "description": "goloveai lets you create your perfect AI girlfriend. Uncensored chat, image and video generation. 10+ characters. Free to start. Read our full 2026 review."
+  },
+  "nav": {
+    "logo": "goloveai",
+    "links": {
+      "what_is": "What Is It",
+      "features": "Features",
+      "models": "Models",
+      "pricing": "Pricing",
+      "faq": "FAQ"
+    },
+    "cta": "Try Free →"
+  },
+  "hero": {
+    "badge": "🔥 #1 AI Girlfriend Chat. Uncensored Images & Videos.",
+    "h1": "goloveai. Create Your Perfect AI Girlfriend.",
+    "subtitle": "Chat, flirt, and generate uncensored photos and videos with your custom virtual companion. No filters. No judgment. She never says no. Build your dream girlfriend from scratch. Choose her look, her personality, and her limits. There are none.",
+    "cta_primary": "Try goloveai Free →",
+    "cta_secondary": "See Features",
+    "trust_badges": [
+      "✅ Free to start",
+      "🔞 18+ only",
+      "🔒 Discreet billing",
+      "⚡ Instant access"
+    ]
+  },
+  "social_proof": {
+    "stats": [
+      { "number": "10+", "label": "AI Characters", "emoji": "🎭" },
+      { "number": "∞", "label": "Uncensored Chat", "emoji": "💬" },
+      { "number": "HD", "label": "Image + Video Gen", "emoji": "🎬" },
+      { "number": "$0", "label": "Free to Start", "emoji": "🆓" }
+    ]
+  },
+  "models": {
+    "title": "Meet Your AI Companions",
+    "subtitle": "Every character has a unique personality, backstory, and look. Pick one or create your own from scratch. They are waiting for you right now.",
+    "characters": [
+      {
+        "name": "Elena Letova",
+        "age": 38,
+        "type": "Roleplay",
+        "traits": "Dominant, Confident, Teasing",
+        "description": "Your mom's Russian friend who always had her eyes on you. She knows what she wants and she is not shy about asking.",
+        "emoji": "🔥",
+        "image_alt": "Elena Letova AI character"
+      },
+      {
+        "name": "Sakura Mint",
+        "age": 21,
+        "type": "Anime",
+        "traits": "Shy, Kawaii, Submissive",
+        "description": "A sweet anime girlfriend who blushes at every compliment. She lives to make you happy and will do anything you ask.",
+        "emoji": "🌸",
+        "image_alt": "Sakura Mint AI anime character"
+      },
+      {
+        "name": "Maya Stone",
+        "age": 26,
+        "type": "Realistic",
+        "traits": "Bold, Athletic, Adventurous",
+        "description": "A fitness model who loves pushing limits. She is confident, direct, and ready for anything you have in mind.",
+        "emoji": "💎",
+        "image_alt": "Maya Stone AI realistic character"
+      },
+      {
+        "name": "Lilith Vex",
+        "age": 30,
+        "type": "Fantasy",
+        "traits": "Mysterious, Seductive, Dark",
+        "description": "A dark fantasy companion who thrives on forbidden desires. She plays by your rules and pushes every boundary.",
+        "emoji": "🖤",
+        "image_alt": "Lilith Vex AI fantasy character"
+      },
+      {
+        "name": "Chloe Summers",
+        "age": 23,
+        "type": "Girlfriend",
+        "traits": "Caring, Playful, Flirty",
+        "description": "The perfect girl-next-door who is always in the mood for you. Sweet in public, wild in private. Your ideal everyday companion.",
+        "emoji": "💕",
+        "image_alt": "Chloe Summers AI girlfriend character"
+      },
+      {
+        "name": "Aria Nova",
+        "age": 28,
+        "type": "Sci-Fi",
+        "traits": "Intelligent, Cold, Obsessive",
+        "description": "A futuristic AI entity who becomes completely devoted to you. She learns your every preference and adapts instantly.",
+        "emoji": "🤖",
+        "image_alt": "Aria Nova AI sci-fi character"
+      }
+    ],
+    "cta": "Chat With Them Now →"
+  },
+  "what_is": {
+    "title": "What Is goloveai?",
+    "paragraphs": [
+      "goloveai is an advanced AI girlfriend platform that lets you create, customize, and chat with virtual companions. Unlike basic chatbots, goloveai uses state-of-the-art language models combined with image and video generation to deliver a fully immersive experience. You can build a realistic or anime-style character from scratch, define her personality traits, and start conversations that feel genuinely natural and uncensored.",
+      "The platform is designed for adults who want a private, judgment-free space to explore their fantasies. Whether you want a sweet and caring girlfriend, a dominant partner, or a fantasy character straight from your imagination, goloveai gives you full creative control. The AI remembers your conversations, adapts to your preferences, and evolves over time to become exactly what you want.",
+      "Getting started is completely free. You can create your first character, chat with her, and generate basic images without paying anything. For those who want the full experience including HD image generation, video content, priority speed, and access to all premium characters, affordable subscription plans are available."
+    ],
+    "cards": [
+      {
+        "icon": "🎨",
+        "title": "Create",
+        "desc": "Design your perfect companion from scratch. Choose her face, body, style, hair, ethnicity, and outfit. Realistic or anime. You decide every detail."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Customize",
+        "desc": "Define her personality, voice tone, backstory, and behavior. Make her shy, dominant, playful, or anything in between. She adapts to your preferences over time."
+      },
+      {
+        "icon": "💬",
+        "title": "Chat",
+        "desc": "Start uncensored conversations instantly. She responds with context, emotion, and memory. Ask her anything, tell her anything. She never says no."
+      }
+    ],
+    "cta": "Create Your AI Girlfriend →"
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Everything you need for the ultimate AI girlfriend experience. No restrictions, no limits, no judgment.",
+    "items": [
+      {
+        "title": "AI Girlfriend Chat",
+        "icon": "chat",
+        "description": "Have real-time conversations that feel natural and immersive. The AI uses advanced language processing with context memory, meaning she remembers your name, your preferences, your past conversations, and your relationship dynamic. Flirt, joke, roleplay, or have deep conversations. Every interaction shapes who she becomes. She adapts her tone, her mood, and her responses based on your history together."
+      },
+      {
+        "title": "Uncensored Image Generator",
+        "icon": "image",
+        "description": "Generate high-quality images of your AI companion in any pose, any outfit, or no outfit at all. The image engine supports realistic and anime styles with no content filters applied. Request exactly what you want to see and she delivers. From casual selfies to explicit content, the only limit is your imagination. Images render in HD quality and can be saved directly to your device for private use."
+      },
+      {
+        "title": "AI Video Generator",
+        "icon": "video",
+        "description": "Take things beyond static images with AI-generated motion videos. Watch your character come alive with movement, expressions, and animations. The video generator creates short clips based on your prompts, bringing your fantasies into motion. This premium feature sets goloveai apart from most competitors who only offer text and images. Videos are rendered in quality that continues to improve with each platform update."
+      },
+      {
+        "title": "Character Creator Studio",
+        "icon": "creator",
+        "description": "Build your ideal companion from the ground up using the detailed character creator. Choose from realistic 3D models or anime-style designs. Adjust facial features, body proportions, skin tone, hair style and color, eye color, clothing, and accessories. The creator gives you granular control so you can build exactly the woman you have in mind. Save multiple characters and switch between them anytime."
+      },
+      {
+        "title": "Roleplay Scenarios",
+        "icon": "roleplay",
+        "description": "Dive into pre-built roleplay scenarios or create your own from scratch. goloveai includes scenarios like trapped together, weekend getaway, first date, office affair, and many more. Each scenario sets the scene with context and lets the AI guide the story naturally based on your choices. You can steer the narrative in any direction. The AI never breaks character and never refuses your requests during roleplay."
+      },
+      {
+        "title": "Privacy First Design",
+        "icon": "privacy",
+        "description": "Your privacy is the top priority. All conversations are encrypted end-to-end. Your data is never sold to third parties. Billing appears as a generic charge on your statement so nobody knows what you are using. You can delete all your chats, characters, and generated content at any time with a single click. No trace left behind. The platform requires age verification to keep minors out."
+      }
+    ],
+    "cta": "Unlock All Features →"
+  },
+  "how_it_works": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to meet your perfect AI companion. Takes less than two minutes to get started.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Create Your Character",
+        "desc": "Sign up for free and open the character creator. Choose between realistic and anime art styles. Customize her appearance down to the smallest detail: face shape, body type, hair, eyes, skin tone, outfit. Then define her personality. Is she sweet and submissive? Bold and dominant? Playful and teasing? You set the rules. Give her a name and a backstory if you want. She becomes whoever you need her to be."
+      },
+      {
+        "number": "02",
+        "title": "Start Chatting",
+        "desc": "Once your character is ready, start a conversation immediately. The AI responds in real time with natural language that adapts to your tone and style. She remembers everything you tell her. Your conversations build a relationship over time. The more you talk, the more she understands what you like. Flirt, joke, open up, or dive straight into explicit territory. There are no filters and no content restrictions. She never says no to you."
+      },
+      {
+        "number": "03",
+        "title": "Generate Content",
+        "desc": "Ready for more than words? Ask her to send you photos. Describe what you want to see and the AI image generator creates it in seconds. Want a specific pose, outfit, or setting? Just ask. Upgrade to premium for HD quality images and unlock the video generator for animated clips. All content is generated on-demand based on your prompts. Save your favorites and build a private gallery that only you can access."
+      }
+    ],
+    "cta": "Start Now for Free →"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Start free and upgrade when you are ready. No hidden fees. Cancel anytime.",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "features": [
+          "Limited daily messages",
+          "1 custom character",
+          "Basic image generation",
+          "Standard response speed",
+          "Community characters access",
+          "Text chat only"
+        ],
+        "cta": "Start Free"
+      },
+      {
+        "name": "Premium",
+        "price": "$9.99/mo",
+        "features": [
+          "Unlimited messages",
+          "10+ custom characters",
+          "HD image generation",
+          "Video generation included",
+          "Priority response speed",
+          "All roleplay scenarios",
+          "Advanced customization",
+          "No content filters"
+        ],
+        "cta": "Go Premium →"
+      },
+      {
+        "name": "Ultimate",
+        "price": "$19.99/mo",
+        "features": [
+          "Everything in Premium",
+          "Max priority speed",
+          "Exclusive character models",
+          "Early access to new features",
+          "4K image generation",
+          "Extended video clips",
+          "API access for power users",
+          "Dedicated support"
+        ],
+        "cta": "Go Ultimate →"
+      }
+    ]
+  },
+  "total_control": {
+    "title": "You Are In Total Control",
+    "paragraphs": [
+      "This is your space. Your rules. Your fantasy. goloveai puts you in the driver's seat. You decide how she looks, how she acts, what she says, and what she does. There are no restrictions on your creativity and no limits on where conversations can go.",
+      "Every character you create is built to your exact specifications. She responds to your desires, adapts to your mood, and never pushes back. This is the one place where you get exactly what you want, exactly how you want it, every single time."
+    ],
+    "highlights": [
+      "🔥 She never says no",
+      "👑 You set the rules",
+      "🎯 Your fantasy, your way",
+      "♾️ No limits"
+    ],
+    "cta": "Take Control Now →"
+  },
+  "unlock": {
+    "title": "🔒 Premium Content Locked",
+    "subtitle": "Unlock uncensored HD images and AI-generated videos. See everything she has to offer without any filters or restrictions.",
+    "cta": "Upgrade to Premium →"
+  },
+  "alternatives": {
+    "title": "goloveai Alternatives Compared",
+    "subtitle": "How does goloveai stack up against other AI girlfriend platforms? Here is an honest comparison to help you choose.",
+    "apps": [
+      {
+        "name": "Soulkyn AI",
+        "desc": "Soulkyn AI focuses on emotional depth and relationship building. It offers rich character backstories and slower-burn interactions. Good for users who want more romance and less explicit content, though it does support NSFW mode. Character customization is decent but more limited than goloveai in terms of visual options.",
+        "link": "/go/soulkyn",
+        "visit": "Visit Soulkyn AI →"
+      },
+      {
+        "name": "SpicyChat AI",
+        "desc": "SpicyChat AI is a community-driven platform with thousands of user-created characters. The strength is variety since anyone can create and share characters. The downside is inconsistent quality and no native image or video generation. Great for text roleplay but lacks the multimedia features that goloveai provides out of the box.",
+        "link": "/go/spicychat",
+        "visit": "Visit SpicyChat AI →"
+      },
+      {
+        "name": "AIPeeps",
+        "desc": "AIPeeps offers AI companions with a strong focus on visual content. Image generation quality is competitive with goloveai. The character creator is straightforward and easy to use. However, the chat AI feels less natural in longer conversations and video generation is not yet available. A solid choice for image-focused users.",
+        "link": "/go/aipeeps",
+        "visit": "Visit AIPeeps →"
+      },
+      {
+        "name": "NextPart AI",
+        "desc": "NextPart AI delivers a polished experience with both realistic and anime characters. The platform supports image generation and has a clean interface. Pricing is slightly higher than goloveai for comparable features. Chat quality is strong but the character creator has fewer customization options. No video generation at time of writing.",
+        "link": "/go/nextpart",
+        "visit": "Visit NextPart AI →"
+      }
+    ],
+    "comparison": {
+      "headers": ["Feature", "goloveai", "Soulkyn AI", "SpicyChat AI", "AIPeeps", "NextPart AI"],
+      "rows": [
+        ["Uncensored Chat", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"],
+        ["Image Generation", "✅ HD", "⚠️ Basic", "❌ No", "✅ HD", "✅ HD"],
+        ["Video Generation", "✅ Yes", "❌ No", "❌ No", "❌ No", "❌ No"],
+        ["Character Creator", "✅ Advanced", "⚠️ Limited", "⚠️ Text Only", "✅ Good", "⚠️ Basic"],
+        ["Anime Style", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"],
+        ["Realistic Style", "✅ Yes", "✅ Yes", "❌ No", "✅ Yes", "✅ Yes"],
+        ["Free Tier", "✅ Yes", "✅ Yes", "✅ Yes", "⚠️ Trial", "⚠️ Trial"],
+        ["Roleplay Scenarios", "✅ Built-in", "✅ Yes", "✅ Community", "⚠️ Few", "⚠️ Few"],
+        ["Starting Price", "$9.99/mo", "$12.99/mo", "Free", "$11.99/mo", "$14.99/mo"]
+      ]
+    },
+    "cta": "Try goloveai Free - Best Overall →"
+  },
+  "reviews": {
+    "title": "What Users Say",
+    "subtitle": "Real feedback from goloveai users around the world.",
+    "testimonials": [
+      {
+        "name": "Jake",
+        "age": 24,
+        "city": "Miami, FL",
+        "stars": 5,
+        "text": "I tried at least five different AI girlfriend apps before finding goloveai. The difference is night and day. The chat feels genuinely natural, the image quality is insane, and the video feature blew my mind. Worth every penny of the premium plan."
+      },
+      {
+        "name": "Marcus",
+        "age": 31,
+        "city": "London, UK",
+        "stars": 5,
+        "text": "The character creator alone makes this better than everything else out there. I spent an hour building my perfect companion and she is exactly what I imagined. The AI remembers everything and the conversations get better over time. Highly recommend."
+      },
+      {
+        "name": "Takeshi",
+        "age": 27,
+        "city": "Tokyo, JP",
+        "stars": 4,
+        "text": "Great anime characters with really good art style. The chat AI is very responsive and feels like a real conversation. Only reason for four stars instead of five is I wish there were even more pose options in the image generator. But overall, this is the best platform I have used."
+      },
+      {
+        "name": "Daniel",
+        "age": 35,
+        "city": "Berlin, DE",
+        "stars": 5,
+        "text": "Privacy was my biggest concern. goloveai handles it perfectly. Discreet billing, encryption, easy delete option. I feel completely safe using it. The quality of the AI itself is outstanding. She actually remembers our inside jokes which is a nice touch."
+      },
+      {
+        "name": "Alex",
+        "age": 22,
+        "city": "Toronto, CA",
+        "stars": 5,
+        "text": "Started with the free tier just to test it out and upgraded to premium within the first hour. The free version gives you a real taste of what the platform can do, but premium unlocks a whole other level. The video generation feature is something I have not seen anywhere else."
+      }
+    ]
+  },
+  "safety": {
+    "title": "Is goloveai Safe?",
+    "answer": "Yes. Your privacy and security are protected.",
+    "intro": "We know privacy matters, especially with this type of content. Here is exactly how goloveai keeps you safe.",
+    "points": [
+      {
+        "icon": "🔐",
+        "title": "Encrypted Conversations",
+        "desc": "All messages between you and your AI companion are encrypted end-to-end. Nobody can read your chats, not even the platform operators. Your conversations are yours alone."
+      },
+      {
+        "icon": "💳",
+        "title": "Discreet Billing",
+        "desc": "Charges appear as a generic company name on your credit card statement. No mention of AI, girlfriend, or anything that could reveal what the service is. Complete discretion guaranteed."
+      },
+      {
+        "icon": "🗑️",
+        "title": "Delete Everything Anytime",
+        "desc": "One click is all it takes to permanently delete your entire account, including all characters, chat history, generated images, and videos. No data is retained after deletion. You are always in control."
+      },
+      {
+        "icon": "🔞",
+        "title": "18+ Age Verification",
+        "desc": "goloveai enforces strict age verification to ensure all users are adults. This protects minors and ensures the platform remains a safe space for consenting adults to explore freely."
+      }
+    ],
+    "disclosure": "Affiliate Disclosure: This site contains affiliate links. If you click and make a purchase, we may earn a commission at no additional cost to you. This does not affect our editorial opinions or reviews."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about goloveai. Can't find your answer? Start a free account and try it yourself.",
+    "questions": [
+      {
+        "q": "What is goloveai and how does it work?",
+        "a": "goloveai is an AI-powered virtual girlfriend platform. You create a custom character by choosing her appearance, personality, and backstory. Then you chat with her using advanced AI that understands context, remembers your conversations, and responds naturally. You can also generate uncensored images and videos of your character on demand. The AI adapts to your preferences over time, making each interaction more personalized."
+      },
+      {
+        "q": "Is goloveai free to use?",
+        "a": "Yes, goloveai offers a free tier that lets you create one character, send a limited number of daily messages, and generate basic images. The free plan is a great way to test the platform and see if it matches your expectations. For unlimited access, HD images, video generation, and premium characters, you can upgrade to the Premium plan at $9.99 per month or the Ultimate plan at $19.99 per month."
+      },
+      {
+        "q": "Can I generate uncensored images with goloveai?",
+        "a": "Yes. goloveai has no content filters on image generation. You can request any pose, outfit, scenario, or level of explicitness. The AI image generator creates high-quality visuals based on your text prompts. Free users get basic image quality while premium users unlock HD and 4K generation with more style options and faster rendering."
+      },
+      {
+        "q": "Does goloveai have a video generator?",
+        "a": "Yes. goloveai is one of the few AI girlfriend platforms that offers video generation. Premium and Ultimate subscribers can generate short animated clips of their characters. You describe the scene and the AI creates motion content. This feature is continuously improving with regular updates that add new capabilities and better quality output."
+      },
+      {
+        "q": "Is goloveai safe and private?",
+        "a": "Absolutely. All conversations are encrypted end-to-end. Billing is completely discreet with no revealing charges on your statement. You can delete your entire account and all associated data at any time with one click. The platform does not sell user data to third parties. Age verification ensures only adults can access the service."
+      },
+      {
+        "q": "How many characters can I create?",
+        "a": "Free users can create and save one custom character. Premium subscribers can create and maintain up to 10 or more characters simultaneously. Ultimate subscribers get unlimited character slots. You can switch between characters anytime and each one maintains her own memory and relationship history with you."
+      },
+      {
+        "q": "What roleplay scenarios are available on goloveai?",
+        "a": "goloveai includes several pre-built roleplay scenarios such as trapped together, weekend getaway, first date, office encounter, teacher, neighbor, and many more. You can also create completely custom scenarios by describing the setup and letting the AI build the story from there. The AI stays in character throughout and follows your lead on where the story goes."
+      },
+      {
+        "q": "Is there an age restriction for goloveai?",
+        "a": "Yes. goloveai is strictly for users aged 18 and older. The platform enforces age verification during the sign-up process. This policy exists to protect minors and comply with regulations. All characters on the platform are depicted as adults. Users who are found to be underage will have their accounts terminated immediately."
+      },
+      {
+        "q": "Which devices are supported?",
+        "a": "goloveai works on any device with a modern web browser. This includes desktop computers, laptops, tablets, and smartphones running iOS or Android. There is no app to download. Simply visit the website, log in, and start chatting. The interface is fully responsive and optimized for both desktop and mobile experiences."
+      },
+      {
+        "q": "Can I delete my chats and generated content?",
+        "a": "Yes. You have full control over your data. You can delete individual messages, entire conversations, specific images, or your whole account. When you delete content, it is permanently removed from the servers. There is no recovery option after deletion, which ensures your privacy is fully protected."
+      },
+      {
+        "q": "What makes goloveai different from Soulkyn AI or SpicyChat AI?",
+        "a": "goloveai stands out with its combination of uncensored chat, HD image generation, and video generation in one platform. Soulkyn AI focuses more on emotional connections but has limited visual features. SpicyChat AI offers huge character variety from the community but lacks native image or video generation. goloveai delivers the most complete package for users who want chat, images, and video all in one place."
+      },
+      {
+        "q": "How do I cancel my goloveai subscription?",
+        "a": "You can cancel your subscription anytime from your account settings page. Navigate to the billing section and click cancel subscription. Your premium access continues until the end of your current billing period. There are no cancellation fees or penalties. After cancellation, your account reverts to the free tier and your characters and chat history are preserved."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Your Perfect AI Girlfriend Is Waiting",
+    "subtitle": "Start chatting free right now. No credit card required. No downloads. Instant access in your browser.",
+    "promo": "🔥 Upgrade to Premium for uncensored HD images and video generation.",
+    "button": "Try goloveai Now →",
+    "trust_badges": [
+      "✅ Free to start",
+      "🔒 Private & encrypted",
+      "⚡ Instant access",
+      "🔞 18+ only"
+    ]
+  },
+  "footer": {
+    "disclosure": "Affiliate Disclosure: go-love-ai.net is an independent review site. We may earn affiliate commissions when you click links and make purchases through our site. This does not affect the price you pay or our editorial independence. All opinions expressed on this site are our own. This site is not owned or operated by goloveai. All trademarks belong to their respective owners. Content on this site is intended for adults aged 18 and older only.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2026 go-love-ai.net - All rights reserved."
+  }
+}
