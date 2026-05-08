@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<meta name="title" content="">
+<meta name="description" content="">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="canonical" href="https://go-love-ai.net/">
+<link rel="alternate" hreflang="en" href="https://go-love-ai.net/">
+<link rel="alternate" hreflang="fr" href="https://go-love-ai.net/fr/">
+<link rel="alternate" hreflang="es" href="https://go-love-ai.net/es/">
+<link rel="alternate" hreflang="de" href="https://go-love-ai.net/de/">
+<link rel="alternate" hreflang="it" href="https://go-love-ai.net/it/">
+<link rel="alternate" hreflang="pt" href="https://go-love-ai.net/pt/">
+<link rel="alternate" hreflang="nl" href="https://go-love-ai.net/nl/">
+<link rel="alternate" hreflang="ru" href="https://go-love-ai.net/ru/">
+<link rel="alternate" hreflang="ja" href="https://go-love-ai.net/ja/">
+<link rel="alternate" hreflang="ko" href="https://go-love-ai.net/ko/">
+<link rel="alternate" hreflang="zh" href="https://go-love-ai.net/zh/">
+<link rel="alternate" hreflang="x-default" href="https://go-love-ai.net/">
+<title data-i18n="meta.title"></title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{bg0:'#0a0a0f',bg1:'#0f0c29',bg2:'#1a1a2e',accent:'#ff8000',violet:'#9D50BB'},fontFamily:{sans:['Inter','system-ui','sans-serif']}}}}
+</script>
+<style>
+.blob-violet{position:absolute;width:500px;height:500px;background:radial-gradient(circle,rgba(157,80,187,.10) 0%,transparent 70%);filter:blur(140px);pointer-events:none}
+.blob-orange{position:absolute;width:400px;height:400px;background:radial-gradient(circle,rgba(255,128,0,.08) 0%,transparent 70%);filter:blur(140px);pointer-events:none}
+.glass{background:rgba(255,255,255,.04);backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.08)}
+.glass:hover{background:rgba(255,255,255,.07);transform:scale(1.02);box-shadow:0 0 30px rgba(157,80,187,.12)}
+.cta-btn{background:linear-gradient(135deg,#ff8000,#9D50BB);transition:all .3s}
+.cta-btn:hover{filter:brightness(1.15);transform:translateY(-2px);box-shadow:0 8px 30px rgba(255,128,0,.3)}
+.cta-ghost{border:1px solid rgba(255,255,255,.2);transition:all .3s}
+.cta-ghost:hover{border-color:#ff8000;background:rgba(255,128,0,.08)}
+.blur-lock{filter:blur(18px);pointer-events:none;user-select:none}
+.faq-answer{max-height:0;overflow:hidden;transition:max-height .4s ease}
+.faq-answer.open{max-height:600px}
+html{scroll-behavior:smooth}
+::selection{background:rgba(157,80,187,.4)}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:#0a0a0f}
+::-webkit-scrollbar-thumb{background:linear-gradient(#ff8000,#9D50BB);border-radius:3px}
+</style>
+</head>
+<body class="bg-bg0 text-white font-sans antialiased overflow-x-hidden">
+
+<!-- ========== 1. NAVIGATION ========== -->
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 glass border-0 border-b border-white/5 transition-all">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
+    <a href="/" class="text-xl font-black tracking-tight"><span class="bg-gradient-to-r from-accent to-violet bg-clip-text text-transparent" data-i18n="nav.logo"></span></a>
+    <div class="hidden md:flex items-center gap-8 text-sm text-gray-300">
+      <a href="#what-is" class="hover:text-white transition" data-i18n="nav.links.what_is"></a>
+      <a href="#features" class="hover:text-white transition" data-i18n="nav.links.features"></a>
+      <a href="#models" class="hover:text-white transition" data-i18n="nav.links.models"></a>
+      <a href="#pricing" class="hover:text-white transition" data-i18n="nav.links.pricing"></a>
+      <a href="#faq" class="hover:text-white transition" data-i18n="nav.links.faq"></a>
+    </div>
+    <div class="flex items-center gap-4">
+      <div id="lang-selector-nav" class="hidden sm:flex items-center gap-1 text-xs cursor-pointer"></div>
+      <a href="/go/mylovely" class="cta-btn text-white text-sm font-semibold px-5 py-2.5 rounded-full" data-i18n="nav.cta"></a>
+    </div>
+    <button id="mobile-menu-btn" class="md:hidden text-white" aria-label="Menu">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+  </div>
+  <div id="mobile-menu" class="hidden md:hidden glass mx-4 mb-4 rounded-xl p-4 space-y-3 text-center">
+    <a href="#what-is" class="block text-gray-300 hover:text-white" data-i18n="nav.links.what_is"></a>
+    <a href="#features" class="block text-gray-300 hover:text-white" data-i18n="nav.links.features"></a>
+    <a href="#models" class="block text-gray-300 hover:text-white" data-i18n="nav.links.models"></a>
+    <a href="#pricing" class="block text-gray-300 hover:text-white" data-i18n="nav.links.pricing"></a>
+    <a href="#faq" class="block text-gray-300 hover:text-white" data-i18n="nav.links.faq"></a>
+    <a href="/go/mylovely" class="cta-btn block text-white text-sm font-semibold px-5 py-2.5 rounded-full" data-i18n="nav.cta"></a>
+  </div>
+</nav>
+
+<!-- ========== 2. HERO ========== -->
+<section id="hero" class="relative min-h-screen flex items-center justify-center pt-20 pb-16 overflow-hidden" style="background:linear-gradient(160deg,#0f0c29 0%,#1a1a2e 100%)">
+  <div class="blob-violet top-[-200px] left-[-100px]"></div>
+  <div class="blob-orange bottom-[-150px] right-[-80px]"></div>
+  <div class="relative z-10 max-w-4xl mx-auto px-4 text-center">
+    <div class="inline-block mb-6 px-4 py-2 rounded-full text-sm font-medium glass text-accent" data-i18n="hero.badge"></div>
+    <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black uppercase italic leading-[0.95] mb-6 tracking-tight">
+      <span class="bg-gradient-to-r from-accent to-violet bg-clip-text text-transparent" data-i18n="hero.h1"></span>
+    </h1>
+    <p class="text-lg sm:text-xl text-gray-300 max-w-2xl mx-auto mb-10 leading-relaxed" data-i18n="hero.subtitle"></p>
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg" data-i18n="hero.cta_primary"></a>
+      <a href="#features" class="cta-ghost text-white font-semibold px-8 py-4 rounded-full text-lg" data-i18n="hero.cta_secondary"></a>
+    </div>
+    <div id="hero-trust" class="flex flex-wrap items-center justify-center gap-4 text-xs text-gray-500"></div>
+  </div>
+</section>
+
+<!-- ========== 3. SOCIAL PROOF BAR ========== -->
+<section id="social-proof" class="relative py-10 border-y border-white/5" style="background:#0d0b20">
+  <div class="max-w-6xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-6" id="social-proof-grid"></div>
+</section>
+
+<!-- ========== 4. MODEL GRID ========== -->
+<section id="models" class="relative py-20 overflow-hidden">
+  <div class="blob-violet top-[10%] right-[-200px]"></div>
+  <div class="max-w-7xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="models.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="models.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" id="models-grid"></div>
+    <div class="text-center mt-12">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="models.cta"></a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 5. WHAT IS IT ========== -->
+<section id="what-is" class="relative py-20 overflow-hidden" style="background:linear-gradient(180deg,#0a0a0f 0%,#0f0c29 100%)">
+  <div class="blob-orange top-[30%] left-[-150px]"></div>
+  <div class="max-w-5xl mx-auto px-4">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-6" data-i18n="what_is.title"></h2>
+      <div id="what-is-paragraphs" class="text-gray-300 text-lg leading-relaxed space-y-4 max-w-3xl mx-auto text-left"></div>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12" id="what-is-cards"></div>
+    <div class="text-center mt-12">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="what_is.cta"></a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 6. KEY FEATURES ========== -->
+<section id="features" class="relative py-20 overflow-hidden">
+  <div class="blob-violet bottom-[10%] left-[-100px]"></div>
+  <div class="max-w-7xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="features.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="features.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="features-grid"></div>
+    <div class="text-center mt-12">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="features.cta"></a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 7. HOW IT WORKS ========== -->
+<section id="how-it-works" class="relative py-20 overflow-hidden" style="background:linear-gradient(180deg,#0a0a0f 0%,#0f0c29 100%)">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="how_it_works.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="how_it_works.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8" id="how-it-works-grid"></div>
+    <div class="text-center mt-12">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="how_it_works.cta"></a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 8. PRICING ========== -->
+<section id="pricing" class="relative py-20 overflow-hidden">
+  <div class="blob-orange top-[20%] right-[-200px]"></div>
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="pricing.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="pricing.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="pricing-grid"></div>
+  </div>
+</section>
+
+<!-- ========== 9. TOTAL CONTROL ========== -->
+<section id="total-control" class="relative py-20 overflow-hidden" style="background:linear-gradient(160deg,#1a1a2e 0%,#0f0c29 100%)">
+  <div class="blob-violet top-[0] left-[20%]"></div>
+  <div class="max-w-4xl mx-auto px-4 text-center">
+    <h2 class="text-3xl md:text-5xl font-black uppercase italic tracking-tight mb-6" data-i18n="total_control.title"></h2>
+    <div id="total-control-paragraphs" class="text-gray-300 text-lg leading-relaxed space-y-4 mb-8 max-w-2xl mx-auto"></div>
+    <div id="total-control-highlights" class="flex flex-wrap justify-center gap-4 mb-10"></div>
+    <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="total_control.cta"></a>
+  </div>
+</section>
+
+<!-- ========== 10. UNLOCK/TEASER ========== -->
+<section id="unlock" class="relative py-20 overflow-hidden">
+  <div class="max-w-4xl mx-auto px-4">
+    <div class="glass rounded-2xl overflow-hidden relative">
+      <div class="h-72 sm:h-96 bg-gradient-to-br from-violet/20 to-accent/10 blur-lock flex items-center justify-center">
+        <div class="w-full h-full bg-gradient-to-br from-purple-900/40 to-orange-900/20"></div>
+      </div>
+      <div class="absolute inset-0 flex flex-col items-center justify-center z-10 text-center px-4">
+        <div class="text-5xl mb-4">🔒</div>
+        <h3 class="text-2xl md:text-3xl font-black uppercase mb-3" data-i18n="unlock.title"></h3>
+        <p class="text-gray-400 mb-6 max-w-md" data-i18n="unlock.subtitle"></p>
+        <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="unlock.cta"></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 11. ALTERNATIVES ========== -->
+<section id="alternatives" class="relative py-20 overflow-hidden" style="background:linear-gradient(180deg,#0f0c29 0%,#0a0a0f 100%)">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="alternatives.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="alternatives.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10" id="alternatives-grid"></div>
+    <div class="glass rounded-2xl overflow-x-auto">
+      <table class="w-full text-left text-sm" id="alternatives-table">
+        <thead><tr class="border-b border-white/10" id="alt-table-head"></tr></thead>
+        <tbody id="alt-table-body"></tbody>
+      </table>
+    </div>
+    <div class="text-center mt-12">
+      <a href="/go/mylovely" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="alternatives.cta"></a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== 12. REVIEWS ========== -->
+<section id="reviews" class="relative py-20 overflow-hidden">
+  <div class="blob-orange top-[30%] left-[-100px]"></div>
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="reviews.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="reviews.subtitle"></p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="reviews-grid"></div>
+  </div>
+</section>
+
+<!-- ========== 13. SAFETY/TRUST ========== -->
+<section id="safety" class="relative py-20 overflow-hidden" style="background:linear-gradient(180deg,#0a0a0f 0%,#0f0c29 100%)">
+  <div class="max-w-5xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="safety.title"></h2>
+      <p class="text-xl text-accent font-bold mb-2" data-i18n="safety.answer"></p>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="safety.intro"></p>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6" id="safety-grid"></div>
+    <p class="text-center text-gray-600 text-xs mt-10" data-i18n="safety.disclosure"></p>
+  </div>
+</section>
+
+<!-- ========== 14. FAQ ========== -->
+<section id="faq" class="relative py-20 overflow-hidden">
+  <div class="blob-violet bottom-[10%] right-[-150px]"></div>
+  <div class="max-w-3xl mx-auto px-4">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tight mb-3" data-i18n="faq.title"></h2>
+      <p class="text-gray-400 max-w-xl mx-auto" data-i18n="faq.subtitle"></p>
+    </div>
+    <div class="space-y-3" id="faq-list"></div>
+  </div>
+</section>
+
+<!-- ========== 15. FINAL CTA ========== -->
+<section id="final-cta" class="relative py-24 overflow-hidden" style="background:linear-gradient(160deg,#1a1a2e 0%,#0f0c29 100%)">
+  <div class="blob-orange top-[0] left-[30%]"></div>
+  <div class="blob-violet bottom-[0] right-[20%]"></div>
+  <div class="relative z-10 max-w-3xl mx-auto px-4 text-center">
+    <h2 class="text-3xl md:text-5xl font-black uppercase italic tracking-tight mb-4" data-i18n="final_cta.title"></h2>
+    <p class="text-gray-300 text-lg mb-4" data-i18n="final_cta.subtitle"></p>
+    <p class="text-accent font-semibold mb-8" data-i18n="final_cta.promo"></p>
+    <a href="/go/mylovely" class="cta-btn text-white font-bold px-10 py-5 rounded-full text-xl inline-block" data-i18n="final_cta.button"></a>
+    <div class="mt-6 flex flex-wrap justify-center gap-4 text-xs text-gray-500" id="final-cta-trust"></div>
+  </div>
+</section>
+
+<!-- ========== 16. FOOTER ========== -->
+<footer class="py-12 border-t border-white/5" style="background:#07070a">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex flex-col md:flex-row items-center justify-between gap-6 mb-8">
+      <a href="/" class="text-lg font-black"><span class="bg-gradient-to-r from-accent to-violet bg-clip-text text-transparent" data-i18n="nav.logo"></span></a>
+      <div class="flex items-center gap-6 text-sm text-gray-500">
+        <a href="/privacy" class="hover:text-white transition" data-i18n="footer.links.privacy"></a>
+        <a href="/terms" class="hover:text-white transition" data-i18n="footer.links.terms"></a>
+      </div>
+      <div id="lang-selector-footer" class="flex flex-wrap items-center justify-center gap-2 text-xs"></div>
+    </div>
+    <p class="text-gray-600 text-xs text-center leading-relaxed max-w-3xl mx-auto mb-4" data-i18n="footer.disclosure"></p>
+    <p class="text-gray-700 text-xs text-center" data-i18n="footer.copyright"></p>
+  </div>
+</footer>
+
+<!-- ========== JAVASCRIPT ========== -->
+<script>
+(async function(){
+  const lang=document.documentElement.lang||'en';
+  const jsonPath=lang==='en'?'./content.json':`../${lang}/content.json`;
+  let data;
+  try{const r=await fetch(jsonPath);data=await r.json()}catch(e){console.error('JSON load failed',e);return}
+
+  /* Meta */
+  if(data.meta){
+    document.title=data.meta.title||'';
+    const dm=document.querySelector('meta[name="description"]');if(dm)dm.content=data.meta.description||'';
+    const tm=document.querySelector('meta[name="title"]');if(tm)tm.content=data.meta.title||'';
+  }
+
+  /* Simple data-i18n injection */
+  function resolve(obj,path){return path.split('.').reduce((o,k)=>o?.[k],obj)}
+  document.querySelectorAll('[data-i18n]').forEach(el=>{
+    const v=resolve(data,el.getAttribute('data-i18n'));
+    if(v&&typeof v==='string')el.textContent=v;
+  });
+
+  /* Hero trust badges */
+  const heroTrust=document.getElementById('hero-trust');
+  if(data.hero?.trust_badges&&heroTrust){
+    data.hero.trust_badges.forEach(b=>{
+      const s=document.createElement('span');s.className='glass px-3 py-1.5 rounded-full';s.textContent=b;heroTrust.appendChild(s);
+    });
+  }
+
+  /* Social proof */
+  const spg=document.getElementById('social-proof-grid');
+  if(data.social_proof?.stats&&spg){
+    data.social_proof.stats.forEach(s=>{
+      spg.innerHTML+=`<div class="text-center"><div class="text-3xl mb-1">${s.emoji}</div><div class="text-2xl font-black text-white">${s.number}</div><div class="text-sm text-gray-400">${s.label}</div></div>`;
+    });
+  }
+
+  /* Models grid */
+  const mg=document.getElementById('models-grid');
+  if(data.models?.characters&&mg){
+    data.models.characters.forEach(c=>{
+      mg.innerHTML+=`<a href="/go/mylovely" class="glass rounded-2xl overflow-hidden block transition hover:scale-[1.02] group">
+        <div class="h-56 bg-gradient-to-br from-violet/20 to-accent/10 flex items-center justify-center"><span class="text-6xl opacity-40 group-hover:opacity-60 transition">${c.emoji||'👤'}</span></div>
+        <div class="p-5"><h3 class="font-bold text-lg mb-1">${c.name}</h3><p class="text-sm text-gray-400 mb-2">${c.age} · ${c.type}</p><p class="text-xs text-gray-500 mb-3">${c.traits}</p><p class="text-sm text-gray-300">${c.description}</p></div>
+      </a>`;
+    });
+  }
+
+  /* What Is paragraphs + cards */
+  const wip=document.getElementById('what-is-paragraphs');
+  if(data.what_is?.paragraphs&&wip){
+    data.what_is.paragraphs.forEach(p=>{wip.innerHTML+=`<p>${p}</p>`});
+  }
+  const wic=document.getElementById('what-is-cards');
+  if(data.what_is?.cards&&wic){
+    data.what_is.cards.forEach(c=>{
+      wic.innerHTML+=`<div class="glass rounded-2xl p-6 text-center"><div class="text-3xl mb-3">${c.icon||'✨'}</div><h3 class="text-lg font-bold mb-2">${c.title}</h3><p class="text-sm text-gray-400">${c.desc}</p></div>`;
+    });
+  }
+
+  /* Features grid */
+  const fg=document.getElementById('features-grid');
+  if(data.features?.items&&fg){
+    const icons={'chat':'💬','image':'🖼️','video':'🎬','creator':'🎨','roleplay':'🎭','privacy':'🔒'};
+    data.features.items.forEach(f=>{
+      fg.innerHTML+=`<div class="glass rounded-2xl p-6"><div class="text-3xl mb-3">${icons[f.icon]||'⚡'}</div><h3 class="text-lg font-bold mb-2">${f.title}</h3><p class="text-sm text-gray-400 leading-relaxed">${f.description}</p></div>`;
+    });
+  }
+
+  /* How it works */
+  const hg=document.getElementById('how-it-works-grid');
+  if(data.how_it_works?.steps&&hg){
+    data.how_it_works.steps.forEach(s=>{
+      hg.innerHTML+=`<div class="glass rounded-2xl p-8 text-center"><div class="text-5xl font-black bg-gradient-to-r from-accent to-violet bg-clip-text text-transparent mb-4">${s.number}</div><h3 class="text-xl font-bold mb-3">${s.title}</h3><p class="text-sm text-gray-400 leading-relaxed">${s.desc}</p></div>`;
+    });
+  }
+
+  /* Pricing */
+  const pg=document.getElementById('pricing-grid');
+  if(data.pricing?.plans&&pg){
+    data.pricing.plans.forEach((p,i)=>{
+      const pop=i===1;
+      pg.innerHTML+=`<div class="glass rounded-2xl p-8 ${pop?'ring-2 ring-accent relative':''}">
+        ${pop?'<div class="absolute -top-3 left-1/2 -translate-x-1/2 bg-accent text-xs font-bold px-3 py-1 rounded-full text-black">MOST POPULAR</div>':''}
+        <h3 class="text-xl font-bold mb-1">${p.name}</h3>
+        <div class="text-3xl font-black mb-4">${p.price}</div>
+        <ul class="space-y-2 mb-6">${p.features.map(f=>`<li class="text-sm text-gray-300 flex items-start gap-2"><span class="text-accent">✓</span>${f}</li>`).join('')}</ul>
+        <a href="/go/mylovely" class="${pop?'cta-btn':'cta-ghost'} block text-center text-white font-bold px-6 py-3 rounded-full">${p.cta||'Get Started'}</a>
+      </div>`;
+    });
+  }
+
+  /* Total control */
+  const tcp=document.getElementById('total-control-paragraphs');
+  if(data.total_control?.paragraphs&&tcp){
+    data.total_control.paragraphs.forEach(p=>{tcp.innerHTML+=`<p>${p}</p>`});
+  }
+  const tch=document.getElementById('total-control-highlights');
+  if(data.total_control?.highlights&&tch){
+    data.total_control.highlights.forEach(h=>{
+      tch.innerHTML+=`<span class="glass px-4 py-2 rounded-full text-sm font-semibold text-accent">${h}</span>`;
+    });
+  }
+
+  /* Alternatives grid + table */
+  const ag=document.getElementById('alternatives-grid');
+  if(data.alternatives?.apps&&ag){
+    data.alternatives.apps.forEach(a=>{
+      ag.innerHTML+=`<a href="${a.link}" class="glass rounded-2xl p-6 block transition hover:scale-[1.02]">
+        <h3 class="text-lg font-bold mb-2">${a.name}</h3><p class="text-sm text-gray-400 mb-3">${a.desc}</p>
+        <span class="text-accent text-sm font-semibold">${a.visit||'Visit Site →'}</span></a>`;
+    });
+  }
+  const ath=document.getElementById('alt-table-head');
+  const atb=document.getElementById('alt-table-body');
+  if(data.alternatives?.comparison&&ath&&atb){
+    const comp=data.alternatives.comparison;
+    ath.innerHTML=comp.headers.map(h=>`<th class="px-4 py-3 text-xs uppercase text-gray-500 font-semibold">${h}</th>`).join('');
+    comp.rows.forEach(row=>{
+      atb.innerHTML+=`<tr class="border-t border-white/5">${row.map((c,i)=>`<td class="px-4 py-3 text-sm ${i===0?'font-semibold text-white':'text-gray-400'}">${c}</td>`).join('')}</tr>`;
+    });
+  }
+
+  /* Reviews */
+  const rg=document.getElementById('reviews-grid');
+  if(data.reviews?.testimonials&&rg){
+    data.reviews.testimonials.forEach(t=>{
+      rg.innerHTML+=`<div class="glass rounded-2xl p-6"><div class="flex items-center gap-3 mb-4">
+        <div class="w-10 h-10 rounded-full bg-gradient-to-br from-accent to-violet flex items-center justify-center text-sm font-bold">${t.name[0]}</div>
+        <div><div class="font-semibold text-sm">${t.name}, ${t.age}</div><div class="text-xs text-gray-500">${t.city}</div></div>
+        <div class="ml-auto text-accent text-sm">${'★'.repeat(t.stars||5)}</div>
+      </div><p class="text-sm text-gray-300 leading-relaxed italic">"${t.text}"</p></div>`;
+    });
+  }
+
+  /* Safety */
+  const sg=document.getElementById('safety-grid');
+  if(data.safety?.points&&sg){
+    data.safety.points.forEach(p=>{
+      sg.innerHTML+=`<div class="glass rounded-2xl p-6"><div class="text-2xl mb-2">${p.icon||'🔒'}</div><h3 class="font-bold mb-2">${p.title}</h3><p class="text-sm text-gray-400">${p.desc}</p></div>`;
+    });
+  }
+
+  /* FAQ */
+  const fl=document.getElementById('faq-list');
+  if(data.faq?.questions&&fl){
+    data.faq.questions.forEach((q,i)=>{
+      const d=document.createElement('div');d.className='glass rounded-xl overflow-hidden';
+      d.innerHTML=`<button class="w-full text-left px-6 py-4 flex items-center justify-between gap-4 hover:bg-white/5 transition" aria-expanded="false">
+        <span class="font-semibold text-sm">${q.q}</span>
+        <svg class="w-5 h-5 text-gray-500 shrink-0 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+      </button><div class="faq-answer"><div class="px-6 pb-4 text-sm text-gray-400 leading-relaxed">${q.a}</div></div>`;
+      d.querySelector('button').addEventListener('click',function(){
+        const ans=this.nextElementSibling;const svg=this.querySelector('svg');
+        const open=ans.classList.toggle('open');
+        svg.style.transform=open?'rotate(180deg)':'';
+        this.setAttribute('aria-expanded',open);
+      });
+      fl.appendChild(d);
+    });
+  }
+
+  /* Final CTA trust */
+  const fct=document.getElementById('final-cta-trust');
+  if(data.final_cta?.trust_badges&&fct){
+    data.final_cta.trust_badges.forEach(b=>{
+      fct.innerHTML+=`<span class="glass px-3 py-1.5 rounded-full">${b}</span>`;
+    });
+  }
+
+  /* Language selectors */
+  const langs=[
+    {code:'en',flag:'🇬🇧',label:'EN'},
+    {code:'fr',flag:'🇫🇷',label:'FR'},
+    {code:'es',flag:'🇪🇸',label:'ES'},
+    {code:'de',flag:'🇩🇪',label:'DE'},
+    {code:'it',flag:'🇮🇹',label:'IT'},
+    {code:'pt',flag:'🇵🇹',label:'PT'},
+    {code:'nl',flag:'🇳🇱',label:'NL'},
+    {code:'ru',flag:'🇷🇺',label:'RU'},
+    {code:'ja',flag:'🇯🇵',label:'JA'},
+    {code:'ko',flag:'🇰🇷',label:'KO'},
+    {code:'zh',flag:'🇨🇳',label:'ZH'}
+  ];
+  function buildLangSelector(container){
+    if(!container)return;
+    langs.forEach(l=>{
+      const a=document.createElement('a');
+      a.href=l.code==='en'?'/':'/'+l.code+'/';
+      a.className=`hover:opacity-100 transition ${l.code===lang?'opacity-100':'opacity-50'}`;
+      a.textContent=l.flag;a.title=l.label;
+      container.appendChild(a);
+    });
+  }
+  buildLangSelector(document.getElementById('lang-selector-nav'));
+  buildLangSelector(document.getElementById('lang-selector-footer'));
+
+  /* Affiliate sub-ID injection */
+  const subid=`${window.location.hostname}_${lang.toUpperCase()}`;
+  document.querySelectorAll('a[href^="/go/"]').forEach(a=>{
+    a.href+=(a.href.includes('?')?'&':'?')+'sid='+subid;
+    a.setAttribute('rel','nofollow noopener sponsored');
+    a.setAttribute('target','_blank');
+  });
+
+  /* Mobile menu toggle */
+  const mmb=document.getElementById('mobile-menu-btn');
+  const mm=document.getElementById('mobile-menu');
+  if(mmb&&mm){mmb.addEventListener('click',()=>mm.classList.toggle('hidden'))}
+
+  /* Navbar scroll effect */
+  const nb=document.getElementById('navbar');
+  window.addEventListener('scroll',()=>{
+    if(window.scrollY>50){nb.style.background='rgba(10,10,15,0.92)'}
+    else{nb.style.background=''}
+  });
+
+})();
+</script>
+</body>
+</html>
