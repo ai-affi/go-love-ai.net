@@ -338,7 +338,7 @@ html{scroll-behavior:smooth}
       const img=modelImages[c.name]||'';
       const alt=c.image_alt||c.name+' AI character';
       mg.innerHTML+=`<a href="/go/mylovely" rel="nofollow sponsored" class="glass rounded-2xl overflow-hidden block transition hover:scale-[1.02] group">
-        <div class="h-80 overflow-hidden relative"><img src="${img}" alt="${alt}" class="w-full h-full object-cover object-top group-hover:scale-105 transition duration-500" loading="lazy"></div>
+        <div class="overflow-hidden relative"><img src="${img}" alt="${alt}" class="w-full h-auto object-contain group-hover:scale-105 transition duration-500" loading="lazy"></div>
         <div class="p-5"><h3 class="font-bold text-lg mb-1">${c.name}</h3><p class="text-sm text-gray-400 mb-2">${c.age} · ${c.type}</p><p class="text-xs text-gray-500 mb-3">${c.traits}</p><p class="text-sm text-gray-300">${c.description}</p></div>
       </a>`;
     });
