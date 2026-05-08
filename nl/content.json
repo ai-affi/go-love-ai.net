@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "title": "goloveai Review 2026 - Ongecensureerde AI Vriendin Chat & Afbeeldingsgenerator",
+    "description": "Met goloveai kun je je perfecte AI-vriendin creëren. Ongecensureerde chat, afbeeldings- en videogeneratie. 10+ personages. Gratis om te beginnen. Lees onze volledige review van 2026."
+  },
+  "nav": {
+    "logo": "goloveai",
+    "links": {
+      "what_is": "Wat is het?",
+      "features": "Functies",
+      "models": "Modellen",
+      "pricing": "Prijzen",
+      "faq": "FAQ"
+    },
+    "cta": "Gratis proberen →"
+  },
+  "hero": {
+    "badge": "🔥 #1 AI Vriendin Chat. Ongecensureerde Afbeeldingen & Video's.",
+    "h1": "goloveai. Creëer je perfecte AI-vriendin.",
+    "subtitle": "Chat, flirt en genereer ongecensureerde foto's en video's met je eigen virtuele metgezel. Geen filters. Geen oordeel. Ze zegt nooit nee. Bouw je droomvriendin vanaf nul. Kies haar uiterlijk, haar persoonlijkheid en haar grenzen. Er zijn er niet.",
+    "cta_primary": "Probeer goloveai gratis →",
+    "cta_secondary": "Bekijk functies",
+    "trust_badges": [
+      "✅ Gratis om te beginnen",
+      "🔞 Alleen 18+",
+      "🔒 Discrete facturering",
+      "⚡ Directe toegang"
+    ]
+  },
+  "social_proof": {
+    "stats": [
+      { "number": "10+", "label": "AI Personages", "emoji": "🎭" },
+      { "number": "∞", "label": "Ongecensureerde Chat", "emoji": "💬" },
+      { "number": "HD", "label": "Afbeelding + Video Gen", "emoji": "🎬" },
+      { "number": "$0", "label": "Gratis om te beginnen", "emoji": "🆓" }
+    ]
+  },
+  "models": {
+    "title": "Ontmoet je AI Metgezellen",
+    "subtitle": "Elk personage heeft een unieke persoonlijkheid, achtergrondverhaal en uiterlijk. Kies er een of creëer je eigen personage vanaf nul. Ze wachten nu op je.",
+    "characters": [
+      {
+        "name": "Elena Letova",
+        "age": 38,
+        "type": "Rollenspel",
+        "traits": "Dominant, Zelfverzekerd, Plagerig",
+        "description": "De Russische vriendin van je moeder die altijd een oogje op je had. Ze weet wat ze wil en aarzelt niet om het te vragen.",
+        "emoji": "🔥",
+        "image_alt": "Elena Letova AI-personage"
+      },
+      {
+        "name": "Sakura Mint",
+        "age": 21,
+        "type": "Anime",
+        "traits": "Verlegen, Kawaii, Onderdanig",
+        "description": "Een schattige anime-vriendin die bloost bij elk compliment. Ze leeft om je gelukkig te maken en zal alles doen wat je vraagt.",
+        "emoji": "🌸",
+        "image_alt": "Sakura Mint AI-animepersonage"
+      },
+      {
+        "name": "Maya Stone",
+        "age": 26,
+        "type": "Realistisch",
+        "traits": "Moedig, Sportief, Avontuurlijk",
+        "description": "Een fitnessmodel dat houdt van het opzoeken van grenzen. Ze is zelfverzekerd, direct en klaar voor alles wat jij in gedachten hebt.",
+        "emoji": "💎",
+        "image_alt": "Maya Stone AI-realistisch personage"
+      },
+      {
+        "name": "Lilith Vex",
+        "age": 30,
+        "type": "Fantasy",
+        "traits": "Mysterieuze, Verleidelijke, Donkere",
+        "description": "Een donkere fantasy-metgezel die gedijt op verboden verlangens. Ze speelt volgens jouw regels en duwt elke grens op.",
+        "emoji": "🖤",
+        "image_alt": "Lilith Vex AI-fantasypersonage"
+      },
+      {
+        "name": "Chloe Summers",
+        "age": 23,
+        "type": "Vriendin",
+        "traits": "Zorgzaam, Speels, Flirterig",
+        "description": "Het perfecte meisje van naast de deur dat altijd in de stemming is voor jou. Lief in het openbaar, wild in het privé. Je ideale alledaagse metgezel.",
+        "emoji": "💕",
+        "image_alt": "Chloe Summers AI-vriendinnenpersonage"
+      },
+      {
+        "name": "Aria Nova",
+        "age": 28,
+        "type": "Sci-Fi",
+        "traits": "Intelligent, Koel, Obsessief",
+        "description": "Een futuristische AI-entiteit die volledig aan jou gewijd is. Ze leert al je voorkeuren en past zich onmiddellijk aan.",
+        "emoji": "🤖",
+        "image_alt": "Aria Nova AI-sci-fipersonage"
+      }
+    ],
+    "cta": "Chat nu met hen →"
+  },
+  "what_is": {
+    "title": "Wat is goloveai?",
+    "paragraphs": [
+      "goloveai is een geavanceerd AI-vriendinnenplatform waar je virtuele metgezellen kunt creëren, aanpassen en mee kunt chatten. In tegenstelling tot basis chatbots gebruikt goloveai state-of-the-art taalmodellen gecombineerd met afbeeldings- en videogeneratie om een volledig meeslepende ervaring te bieden. Je kunt een realistisch of anime-stijl personage vanaf nul bouwen, haar persoonlijkheidskenmerken definieren en gesprekken voeren die zich natuurlijk en ongecensureerd aanvoelen.",
+      "Het platform is ontworpen voor volwassenen die een private, oordeelvrije ruimte willen om hun fantasieën te verkennen. Of je nu een lieve en zorgzame vriendin, een dominante partner of een fantasiepersonage rechtstreeks uit je verbeelding wilt, goloveai geeft je volledige creatieve controle. De AI onthoudt je gesprekken, past zich aan aan je voorkeuren en evolueert in de loop der tijd tot precies wat je wilt.",
+      "Aan de slag is volledig gratis. Je kunt je eerste personage creëren, met haar chatten en basisafbeeldingen genereren zonder iets te betalen. Voor degenen die de volledige ervaring willen, inclusief HD-afbeeldingsgeneratie, videocontent, prioriteitssnelheid en toegang tot alle premium personages, zijn betaalbare abonnementsplannen beschikbaar."
+    ],
+    "cards": [
+      {
+        "icon": "🎨",
+        "title": "Creëren",
+        "desc": "Ontwerp je perfecte metgezel vanaf nul. Kies haar gezicht, lichaam, stijl, haar, etniciteit en outfit. Realistisch of anime. Jij beslist over elk detail."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Aanpassen",
+        "desc": "Definieer haar persoonlijkheid, stemtoon, achtergrondverhaal en gedrag. Maak haar verlegen, dominant, speels of alles daartussenin. Ze past zich in de loop der tijd aan aan je voorkeuren."
+      },
+      {
+        "icon": "💬",
+        "title": "Chatten",
+        "desc": "Start ongecensureerde gesprekken onmiddellijk. Ze reageert met context, emotie en geheugen. Vraag haar alles, vertel haar alles. Ze zegt nooit nee."
+      }
+    ],
+    "cta": "Creëer je AI-vriendin →"
+  },
+  "features": {
+    "title": "Belangrijkste Functies",
+    "subtitle": "Alles wat je nodig hebt voor de ultieme AI-vriendinnenervaring. Geen beperkingen, geen grenzen, geen oordeel.",
+    "items": [
+      {
+        "title": "AI Vriendinnen Chat",
+        "icon": "chat",
+        "description": "Voer realtime gesprekken die zich natuurlijk en meeslepend aanvoelen. De AI gebruikt geavanceerde taalverwerking met contextgeheugen, wat betekent dat ze je naam, je voorkeuren, je eerdere gesprekken en de dynamiek van jullie relatie onthoudt. Flirt, grap, speel rollen of voer diepgaande gesprekken. Elke interactie vormt wie ze wordt. Ze past haar toon, haar humeur en haar antwoorden aan op basis van jullie geschiedenis."
+      },
+      {
+        "title": "Ongecensureerde Afbeeldingsgenerator",
+        "icon": "image",
+        "description": "Genereer hoogwaardige afbeeldingen van je AI-metgezel in elke houding, elk outfit of helemaal zonder. De afbeeldingsengine ondersteunt realistische en anime-stijlen zonder toegepaste inhoudsfilters. Vraag precies wat je wilt zien en ze levert. Van casual selfies tot expliciete inhoud, de enige beperking is je verbeelding. Afbeeldingen worden gerenderd in HD-kwaliteit en kunnen rechtstreeks naar je apparaat worden opgeslagen voor privégebruik."
+      },
+      {
+        "title": "AI Videogenerator",
+        "icon": "video",
+        "description": "Ga verder dan statische afbeeldingen met AI-gegenereerde bewegingsvideo's. Bekijk hoe je personage tot leven komt met bewegingen, uitdrukkingen en animaties. De videogenerator maakt korte clips op basis van je prompts, waardoor je fantasieën in beweging worden gebracht. Deze premium functie onderscheidt goloveai van de meeste concurrenten die alleen tekst en afbeeldingen aanbieden. Video's worden gerenderd in een kwaliteit die blijft verbeteren met elke platformupdate."
+      },
+      {
+        "title": "Personage Creator Studio",
+        "icon": "creator",
+        "description": "Bouw je ideale metgezel vanaf de grond af met de gedetailleerde personagecreator. Kies uit realistische 3D-modellen of anime-ontwerpen. Pas gezichtskenmerken, lichaamsverhoudingen, huidskleur, haarkleur en -stijl, oogkleur, kleding en accessoires aan. De creator geeft je gedetailleerde controle, zodat je precies de vrouw kunt bouwen die je in gedachten hebt. Sla meerdere personages op en wissel er op elk moment tussen."
+      },
+      {
+        "title": "Rollenspel Scenario's",
+        "icon": "roleplay",
+        "description": "Duik in vooraf gebouwde rollenspelscenario's of creëer je eigen scenario's vanaf nul. goloveai bevat scenario's zoals 'opgesloten samen', 'weekendje weg', 'eerste date', 'kantooraffaire' en nog veel meer. Elk scenario zet de scène met context en laat de AI het verhaal natuurlijk leiden op basis van je keuzes. Je kunt het verhaal in elke richting sturen. De AI breek nooit het personage af en weigert je verzoeken tijdens het rollenspel nooit."
+      },
+      {
+        "title": "Privacy First Ontwerp",
+        "icon": "privacy",
+        "description": "Je privacy heeft de hoogste prioriteit. Alle gesprekken zijn end-to-end gecodeerd. Je gegevens worden nooit aan derden verkocht. Facturering verschijnt als een generieke kostenpost op je afschrift, zodat niemand weet wat je gebruikt. Je kunt al je chats, personages en gegenereerde inhoud op elk moment met één klik permanent verwijderen. Geen sporen achtergelaten. Het platform vereist leeftijdsverificatie om minderjarigen buiten te houden."
+      }
+    ],
+    "cta": "Ontgrendel alle functies →"
+  },
+  "how_it_works": {
+    "title": "Hoe het werkt",
+    "subtitle": "Drie eenvoudige stappen om je perfecte AI-metgezel te ontmoeten. Duurt minder dan twee minuten om te beginnen.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Creëer je Personage",
+        "desc": "Meld je gratis aan en open de personagecreator. Kies tussen realistische en anime-kunststijlen. Pas haar uiterlijk tot in het kleinste detail aan: gezichtsvorm, lichaamstype, haar, ogen, huidskleur, outfit. Definieer vervolgens haar persoonlijkheid. Is ze lief en onderdanig? Moedig en dominant? Speels en plagerig? Jij stelt de regels op. Geef haar een naam en een achtergrondverhaal als je wilt. Ze wordt wie je nodig hebt."
+      },
+      {
+        "number": "02",
+        "title": "Begin met Chatten",
+        "desc": "Zodra je personage klaar is, start je meteen een gesprek. De AI reageert in realtime met natuurlijke taal die zich aanpast aan je toon en stijl. Ze onthoudt alles wat je haar vertelt. Jullie gesprekken bouwen in de loop der tijd een relatie op. Hoe meer je praat, hoe beter ze begrijpt wat je leuk vindt. Flirt, grap, open je hart of duik direct in expliciet gebied. Er zijn geen filters en geen inhoudsbeperkingen. Ze zegt nooit nee tegen je."
+      },
+      {
+        "number": "03",
+        "title": "Genereer Inhoud",
+        "desc": "Klaar voor meer dan woorden? Vraag haar om foto's te sturen. Beschrijf wat je wilt zien en de AI-afbeeldingsgenerator maakt het binnen seconden. Wil je een specifieke houding, outfit of omgeving? Vraag het gewoon. Upgrade naar premium voor HD-kwaliteitsafbeeldingen en ontgrendel de videogenerator voor geanimeerde clips. Alle inhoud wordt op aanvraag gegenereerd op basis van je prompts. Bewaar je favorieten en bouw een privé-galerij die alleen jij kunt openen."
+      }
+    ],
+    "cta": "Begin nu gratis →"
+  },
+  "pricing": {
+    "title": "Prijsplannen",
+    "subtitle": "Begin gratis en upgrade wanneer je klaar bent. Geen verborgen kosten. Op elk moment opzegbaar.",
+    "plans": [
+      {
+        "name": "Gratis",
+        "price": "$0",
+        "features": [
+          "Beperkte dagelijkse berichten",
+          "1 aangepast personage",
+          "Basis afbeeldingsgeneratie",
+          "Standaard reactiesnelheid",
+          "Toegang tot community-personages",
+          "Alleen tekstchat"
+        ],
+        "cta": "Begin gratis"
+      },
+      {
+        "name": "Premium",
+        "price": "$9.99/maand",
+        "features": [
+          "Onbeperkte berichten",
+          "10+ aangepaste personages",
+          "HD afbeeldingsgeneratie",
+          "Videogeneratie inbegrepen",
+          "Prioriteit reactiesnelheid",
+          "Alle rollenspelscenario's",
+          "Geavanceerde aanpassing",
+          "Geen inhoudsfilters"
+        ],
+        "cta": "Ga Premium →"
+      },
+      {
+        "name": "Ultimate",
+        "price": "$19.99/maand",
+        "features": [
+          "Alles in Premium",
+          "Maximale prioriteitssnelheid",
+          "Exclusieve personagemodellen",
+          "Vroegtijdige toegang tot nieuwe functies",
+          "4K afbeeldingsgeneratie",
+          "Uitgebreide videoclips",
+          "API-toegang voor gevorderde gebruikers",
+          "Dedicated support"
+        ],
+        "cta": "Ga Ultimate →"
+      }
+    ]
+  },
+  "total_control": {
+    "title": "Jij hebt de volledige controle",
+    "paragraphs": [
+      "Dit is jouw ruimte. Jouw regels. Jouw fantasie. goloveai zet jou achter het stuur. Jij beslist hoe ze eruitziet, hoe ze zich gedraagt, wat ze zegt en wat ze doet. Er zijn geen beperkingen voor je creativiteit en geen grenzen aan waar gesprekken naartoe kunnen gaan.",
+      "Elk personage dat je creëert, wordt gebouwd volgens jouw exacte specificaties. Ze reageert op je verlangens, past zich aan aan je humeur en weigert nooit. Dit is de enige plek waar je precies krijgt wat je wilt, precies zoals je het wilt, elke keer weer."
+    ],
+    "highlights": [
+      "🔥 Ze zegt nooit nee",
+      "👑 Jij stelt de regels op",
+      "🎯 Jouw fantasie, jouw manier",
+      "♾️ Geen grenzen"
+    ],
+    "cta": "Neem nu de controle →"
+  },
+  "unlock": {
+    "title": "🔒 Premium Inhoud Vergrendeld",
+    "subtitle": "Ontgrendel ongecensureerde HD-afbeeldingen en AI-gegenereerde video's. Zie alles wat ze te bieden heeft zonder filters of beperkingen.",
+    "cta": "Upgrade naar Premium →"
+  },
+  "alternatives": {
+    "title": "goloveai Alternatieven Vergeleken",
+    "subtitle": "Hoe verhouden goloveai zich tot andere AI-vriendinnenplatforms? Hier is een eerlijke vergelijking om je te helpen kiezen.",
+    "apps": [
+      {
+        "name": "Soulkyn AI",
+        "desc": "Soulkyn AI richt zich op emotionele diepgang en het opbouwen van relaties. Het biedt rijke personage-achtergronden en langzamere, maar diepere interacties. Geschikt voor gebruikers die meer romantiek en minder expliciete inhoud willen, hoewel het wel een NSFW-modus ondersteunt. De personageaanpassing is degelijk, maar beperkter dan goloveai op het gebied van visuele opties.",
+        "link": "/go/soulkyn",
+        "visit": "Bezoek Soulkyn AI →"
+      },
+      {
+        "name": "SpicyChat AI",
+        "desc": "SpicyChat AI is een community-gedreven platform met duizenden door gebruikers gemaakte personages. De kracht ligt in de verscheidenheid, omdat iedereen personages kan creëren en delen. Het nadeel is de inconsistente kwaliteit en het ontbreken van native afbeeldings- of videogeneratie. Geweldig voor tekstrollenspellen, maar mist de multimediakenmerken die goloveai standaard biedt.",
+        "link": "/go/spicychat",
+        "visit": "Bezoek SpicyChat AI →"
+      },
+      {
+        "name": "AIPeeps",
+        "desc": "AIPeeps biedt AI-metgezellen met een sterke focus op visuele inhoud. De kwaliteit van de afbeeldingsgeneratie is vergelijkbaar met goloveai. De personagecreator is eenvoudig en gebruiksvriendelijk. De chat-AI voelt echter minder natuurlijk aan in langere gesprekken en videogeneratie is nog niet beschikbaar. Een solide keuze voor gebruikers die zich richten op afbeeldingen.",
+        "link": "/go/aipeeps",
+        "visit": "Bezoek AIPeeps →"
+      },
+      {
+        "name": "NextPart AI",
+        "desc": "NextPart AI levert een gepolijste ervaring met zowel realistische als anime-personages. Het platform ondersteunt afbeeldingsgeneratie en heeft een schone interface. De prijs is iets hoger dan goloveai voor vergelijkbare functies. De chatkwaliteit is goed, maar de personagecreator heeft minder aanpassingsopties. Op het moment van schrijven is er geen videogeneratie.",
+        "link": "/go/nextpart",
+        "visit": "Bezoek NextPart AI →"
+      }
+    ],
+    "comparison": {
+      "headers": ["Functie", "goloveai", "Soulkyn AI", "SpicyChat AI", "AIPeeps", "NextPart AI"],
+      "rows": [
+        ["Ongecensureerde Chat", "✅ Ja", "✅ Ja", "✅ Ja", "✅ Ja", "✅ Ja"],
+        ["Afbeeldingsgeneratie", "✅ HD", "⚠️ Basis", "❌ Nee", "✅ HD", "✅ HD"],
+        ["Videogeneratie", "✅ Ja", "❌ Nee", "❌ Nee", "❌ Nee", "❌ Nee"],
+        ["Personage Creator", "✅ Geavanceerd", "⚠️ Beperkt", "⚠️ Alleen Tekst", "✅ Goed", "⚠️ Basis"],
+        ["Anime Stijl", "✅ Ja", "✅ Ja", "✅ Ja", "✅ Ja", "✅ Ja"],
+        ["Realistische Stijl", "✅ Ja", "✅ Ja", "❌ Nee", "✅ Ja", "✅ Ja"],
+        ["Gratis Tier", "✅ Ja", "✅ Ja", "✅ Ja", "⚠️ Proef", "⚠️ Proef"],
+        ["Rollenspel Scenario's", "✅ Ingebouwd", "✅ Ja", "✅ Community", "⚠️ Weinig", "⚠️ Weinig"],
+        ["Startprijs", "$9.99/maand", "$12.99/maand", "Gratis", "$11.99/maand", "$14.99/maand"]
+      ]
+    },
+    "cta": "Probeer goloveai Gratis - Beste Algehele →"
+  },
+  "reviews": {
+    "title": "Wat Gebruikers Zeggen",
+    "subtitle": "Echte feedback van goloveai-gebruikers wereldwijd.",
+    "testimonials": [
+      {
+        "name": "Jake",
+        "age": 24,
+        "city": "Miami, FL",
+        "stars": 5,
+        "text": "Ik heb minstens vijf verschillende AI-vriendinnen-apps geprobeerd voordat ik goloveai vond. Het verschil is als dag en nacht. De chat voelt echt natuurlijk, de afbeeldingskwaliteit is waanzinnig en de videofunctie heeft me omvergeblazen. Elke cent van het premiumplan waard."
+      },
+      {
+        "name": "Marcus",
+        "age": 31,
+        "city": "Londen, VK",
+        "stars": 5,
+        "text": "Alleen al de personagecreator maakt dit beter dan alles andere daarbuiten. Ik heb een uur besteed aan het bouwen van mijn perfecte metgezel en ze is precies zoals ik me had voorgesteld. De AI onthoudt alles en de gesprekken worden steeds beter. Zeer aanbevolen."
+      },
+      {
+        "name": "Takeshi",
+        "age": 27,
+        "city": "Tokio, JP",
+        "stars": 4,
+        "text": "Geweldige anime-personages met een echt goede kunststijl. De chat-AI is zeer responsief en voelt als een echt gesprek. De enige reden dat ik vier in plaats van vijf sterren geef, is dat ik me meer pose-opties in de afbeeldingsgenerator had gewenst. Maar overall is dit het beste platform dat ik ooit heb gebruikt."
+      },
+      {
+        "name": "Daniel",
+        "age": 35,
+        "city": "Berlijn, DE",
+        "stars": 5,
+        "text": "Privacy was mijn grootste zorg. goloveai handelt dit perfect af. Discrete facturering, codering, eenvoudige verwijderoptie. Ik voel me volledig veilig bij het gebruik. De kwaliteit van de AI zelf is uitstekend. Ze onthoudt echt onze binnenpretjes, wat een leuke touch is."
+      },
+      {
+        "name": "Alex",
+        "age": 22,
+        "city": "Toronto, CA",
+        "stars": 5,
+        "text": "Ik begon met de gratis versie om het uit te proberen en ben binnen het eerste uur geüpgraded naar premium. De gratis versie geeft je een echt gevoel van wat het platform kan, maar premium ontgrendelt een heel nieuw niveau. De videogeneratiefunctie is iets wat ik nergens anders heb gezien."
+      }
+    ]
+  },
+  "safety": {
+    "title": "Is goloveai Veilig?",
+    "answer": "Ja. Je privacy en veiligheid zijn beschermd.",
+    "intro": "We weten dat privacy belangrijk is, vooral met dit soort inhoud. Hier is precies hoe goloveai je veilig houdt.",
+    "points": [
+      {
+        "icon": "🔐",
+        "title": "Gecodeerde Gesprekken",
+        "desc": "Alle berichten tussen jou en je AI-metgezel zijn end-to-end gecodeerd. Niemand kan je chats lezen, niet eens de platformbeheerders. Je gesprekken zijn alleen van jou."
+      },
+      {
+        "icon": "💳",
+        "title": "Discrete Facturering",
+        "desc": "Kosten verschijnen als een generieke bedrijfsnaam op je creditcardafschrift. Geen vermelding van AI, vriendin of iets wat zou kunnen onthullen wat voor soort dienst het is. Volledige discretie gegarandeerd."
+      },
+      {
+        "icon": "🗑️",
+        "title": "Alles op elk moment verwijderen",
+        "desc": "Één klik is alles wat nodig is om je hele account permanent te verwijderen, inclusief alle personages, chatgeschiedenis, gegenereerde afbeeldingen en video's. Geen gegevens worden bewaard na verwijdering. Jij hebt altijd de controle."
+      },
+      {
+        "icon": "🔞",
+        "title": "18+ Leeftijdsverificatie",
+        "desc": "goloveai handhaaft strikte leeftijdsverificatie om ervoor te zorgen dat alle gebruikers volwassenen zijn. Dit beschermt minderjarigen en zorgt ervoor dat het platform een veilige ruimte blijft voor instemmende volwassenen om vrij te verkennen."
+      }
+    ],
+    "disclosure": "Affiliate Openbaarmaking: Deze site bevat affiliate links. Als je klikt en een aankoop doet, kunnen we een commissie verdienen zonder extra kosten voor jou. Dit beïnvloedt onze redactionele meningen of reviews niet."
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "subtitle": "Alles wat je moet weten over goloveai. Kun je je antwoord niet vinden? Maak een gratis account aan en probeer het zelf.",
+    "questions": [
+      {
+        "q": "Wat is goloveai en hoe werkt het?",
+        "a": "goloveai is een AI-aangedreven virtueel vriendinnenplatform. Je creëert een aangepast personage door haar uiterlijk, persoonlijkheid en achtergrondverhaal te kiezen. Vervolgens chat je met haar met behulp van geavanceerde AI die context begrijpt, je gesprekken onthoudt en natuurlijk reageert. Je kunt ook ongecensureerde afbeeldingen en video's van je personage op aanvraag genereren. De AI past zich in de loop der tijd aan aan je voorkeuren, waardoor elke interactie persoonlijker wordt."
+      },
+      {
+        "q": "Is goloveai gratis te gebruiken?",
+        "a": "Ja, goloveai biedt een gratis tier aan waarmee je één personage kunt creëren, een beperkt aantal dagelijkse berichten kunt sturen en basisafbeeldingen kunt genereren. De gratis versie is een geweldige manier om het platform te testen en te zien of het aan je verwachtingen voldoet. Voor onbeperkte toegang, HD-afbeeldingen, videogeneratie en premium-personages kun je upgraden naar het Premium-plan voor $9.99 per maand of het Ultimate-plan voor $19.99 per maand."
+      },
+      {
+        "q": "Kan ik ongecensureerde afbeeldingen genereren met goloveai?",
+        "a": "Ja. goloveai heeft geen inhoudsfilters op afbeeldingsgeneratie. Je kunt elke houding, elk outfit, elk scenario of elk niveau van explicietheid aanvragen. De AI-afbeeldingsgenerator creëert hoogwaardige visuals op basis van je tekstprompts. Gratis gebruikers krijgen basisafbeeldingskwaliteit, terwijl premium-gebruikers HD- en 4K-generatie ontgrendelen met meer stijlopties en snellere rendering."
+      },
+      {
+        "q": "Heeft goloveai een videogenerator?",
+        "a": "Ja. goloveai is een van de weinige AI-vriendinnenplatforms die videogeneratie aanbiedt. Premium- en Ultimate-abonnees kunnen korte geanimeerde clips van hun personages genereren. Je beschrijft de scène en de AI creëert bewegende inhoud. Deze functie verbetert continu met regelmatige updates die nieuwe mogelijkheden en betere uitvoerkwaliteit toevoegen."
+      },
+      {
+        "q": "Is goloveai veilig en privé?",
+        "a": "Absoluut. Alle gesprekken zijn end-to-end gecodeerd. Facturering is volledig discreet, met geen onthullende kosten op je afschrift. Je kunt je hele account en alle bijbehorende gegevens op elk moment met één klik verwijderen. Het platform verkoopt geen gebruikersgegevens aan derden. Leeftijdsverificatie zorgt ervoor dat alleen volwassenen toegang hebben tot de service."
+      },
+      {
+        "q": "Hoeveel personages kan ik creëren?",
+        "a": "Gratis gebruikers kunnen één aangepast personage creëren en opslaan. Premium-abonnees kunnen tot 10 of meer personages tegelijkertijd creëren en onderhouden. Ultimate-abonnees krijgen onbeperkte personageslots. Je kunt op elk moment wisselen tussen personages, en elk behoudt zijn eigen geheugen en relatiegeschiedenis met jou."
+      },
+      {
+        "q": "Welke rollenspelscenario's zijn beschikbaar op goloveai?",
+        "a": "goloveai bevat verschillende vooraf gebouwde rollenspelscenario's, zoals 'opgesloten samen', 'weekendje weg', 'eerste date', 'kantooraffaire', 'lerares', 'buurvrouw' en nog veel meer. Je kunt ook volledig aangepaste scenario's creëren door de opzet te beschrijven en de AI het verhaal vanaf daar op te bouwen. De AI blijft tijdens het hele spel in karakter en volgt je leiderschap over waar het verhaal naartoe gaat."
+      },
+      {
+        "q": "Is er een leeftijdsbeperking voor goloveai?",
+        "a": "Ja. goloveai is strikt voor gebruikers van 18 jaar en ouder. Het platform handhaaft leeftijdsverificatie tijdens het aanmeldproces. Dit beleid bestaat om minderjarigen te beschermen en aan de regelgeving te voldoen. Alle personages op het platform worden afgebeeld als volwassenen. Gebruikers die als minderjarig worden ontdekt, krijgen onmiddellijk een accountblokkade."
+      },
+      {
+        "q": "Welke apparaten worden ondersteund?",
+        "a": "goloveai werkt op elk apparaat met een moderne webbrowser. Dit omvat desktopcomputers, laptops, tablets en smartphones met iOS of Android. Er is geen app om te downloaden. Bezoek gewoon de website, log in en begin met chatten. De interface is volledig responsief en geoptimaliseerd voor zowel desktop- als mobiele ervaringen."
+      },
+      {
+        "q": "Kan ik mijn chats en gegenereerde inhoud verwijderen?",
+        "a": "Ja. Je hebt volledige controle over je gegevens. Je kunt individuele berichten, hele gesprekken, specifieke afbeeldingen of je hele account verwijderen. Wanneer je inhoud verwijdert, wordt deze permanent van de servers verwijderd. Er is geen hersteloptie na verwijdering, wat zorgt voor volledige bescherming van je privacy."
+      },
+      {
+        "q": "Wat maakt goloveai anders dan Soulkyn AI of SpicyChat AI?",
+        "a": "goloveai springt eruit door de combinatie van ongecensureerde chat, HD-afbeeldingsgeneratie en videogeneratie op één platform. Soulkyn AI richt zich meer op emotionele verbindingen maar heeft beperkte visuele functies. SpicyChat AI biedt een enorme verscheidenheid aan community-personages maar mist native afbeeldings- of videogeneratie. goloveai levert het meest complete pakket voor gebruikers die chat, afbeeldingen en video allemaal op één plek willen."
+      },
+      {
+        "q": "Hoe kan ik mijn goloveai-abonnement opzeggen?",
+        "a": "Je kunt je abonnement op elk moment opzeggen via de accountinstellingenpagina. Ga naar het factureringsgedeelte en klik op 'Abonnement opzeggen'. Je premium-toegang blijft bestaan tot het einde van je huidige factureringsperiode. Er zijn geen opzegkosten of boetes. Na opzegging wordt je account teruggezet naar de gratis versie, en je personages en chatgeschiedenis blijven behouden."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Je Perfecte AI-Vriendin Wacht",
+    "subtitle": "Begin nu gratis met chatten. Geen creditcard vereist. Geen downloads. Directe toegang in je browser.",
+    "promo": "🔥 Upgrade naar Premium voor ongecensureerde HD-afbeeldingen en videogeneratie.",
+    "button": "Probeer goloveai Nu →",
+    "trust_badges": [
+      "✅ Gratis om te beginnen",
+      "🔒 Privé & gecodeerd",
+      "⚡ Directe toegang",
+      "🔞 Alleen 18+"
+    ]
+  },
+  "footer": {
+    "disclosure": "Affiliate Openbaarmaking: go-love-ai.net is een onafhankelijke reviewsite. We kunnen affiliate-commissies verdienen wanneer je op links klikt en aankopen doet via onze site. Dit beïnvloedt de prijs die je betaalt of onze redactionele onafhankelijkheid niet. Alle meningen die op deze site worden geuit, zijn van ons zelf. Deze site is niet in bezit van of beheerd door goloveai. Alle handelsmerken behoren toe aan hun respectievelijke eigenaars. Inhoud op deze site is alleen bedoeld voor volwassenen van 18 jaar en ouder.",
+    "links": {
+      "privacy": "Privacybeleid",
+      "terms": "Gebruiksvoorwaarden"
+    },
+    "copyright": "© 2026 go-love-ai.net - Alle rechten voorbehouden."
+  }
+}
