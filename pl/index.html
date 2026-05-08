@@ -184,14 +184,15 @@ html{scroll-behavior:smooth}
 <!-- ========== 10. UNLOCK/TEASER ========== -->
 <section id="unlock" class="relative py-20 overflow-hidden">
   <div class="max-w-4xl mx-auto px-4">
-    <div class="glass rounded-2xl overflow-hidden relative">
-      <div class="h-72 sm:h-96 bg-gradient-to-br from-violet/20 to-accent/10 blur-lock flex items-center justify-center">
-        <div class="w-full h-full bg-gradient-to-br from-purple-900/40 to-orange-900/20"></div>
+    <div class="glass rounded-2xl overflow-hidden relative min-h-[400px]">
+      <div class="absolute inset-0">
+        <img src="/assets/images/Premium Content Locked.jpg" alt="Premium content preview" class="w-full h-full object-cover" style="filter:blur(15px)">
+        <div class="absolute inset-0 bg-black/40"></div>
       </div>
-      <div class="absolute inset-0 flex flex-col items-center justify-center z-10 text-center px-4">
+      <div class="relative z-10 flex flex-col items-center justify-center min-h-[400px] text-center px-4">
         <div class="text-5xl mb-4">🔒</div>
-        <h3 class="text-2xl md:text-3xl font-black uppercase mb-3" data-i18n="unlock.title"></h3>
-        <p class="text-gray-400 mb-6 max-w-md" data-i18n="unlock.subtitle"></p>
+        <h3 class="text-2xl md:text-3xl font-black uppercase mb-3 text-white" data-i18n="unlock.title"></h3>
+        <p class="text-gray-200 mb-6 max-w-md" data-i18n="unlock.subtitle"></p>
         <a href="/go/mylovely" rel="nofollow sponsored" class="cta-btn text-white font-bold px-8 py-4 rounded-full text-lg inline-block" data-i18n="unlock.cta"></a>
       </div>
     </div>
@@ -324,10 +325,20 @@ html{scroll-behavior:smooth}
 
   /* Models grid */
   const mg=document.getElementById('models-grid');
+  const modelImages={
+    'Elena Letova':'/assets/images/Elena Letova.jpg',
+    'Sakura Mint':'/assets/images/Sakura Mint.jpeg',
+    'Maya Stone':'/assets/images/Maya Stone.jpg',
+    'Lilith Vex':'/assets/images/Lilith Vex.jpeg',
+    'Chloe Summers':'/assets/images/Chloe Summers.jpg',
+    'Aria Nova':'/assets/images/Aria Nova.jpeg'
+  };
   if(data.models?.characters&&mg){
     data.models.characters.forEach(c=>{
-      mg.innerHTML+=`<a href="/go/mylovely" class="glass rounded-2xl overflow-hidden block transition hover:scale-[1.02] group">
-        <div class="h-56 bg-gradient-to-br from-violet/20 to-accent/10 flex items-center justify-center"><span class="text-6xl opacity-40 group-hover:opacity-60 transition">${c.emoji||'👤'}</span></div>
+      const img=modelImages[c.name]||'';
+      const alt=c.image_alt||c.name+' AI character';
+      mg.innerHTML+=`<a href="/go/mylovely" rel="nofollow sponsored" class="glass rounded-2xl overflow-hidden block transition hover:scale-[1.02] group">
+        <div class="h-80 overflow-hidden relative"><img src="${img}" alt="${alt}" class="w-full h-full object-cover object-top group-hover:scale-105 transition duration-500" loading="lazy"></div>
         <div class="p-5"><h3 class="font-bold text-lg mb-1">${c.name}</h3><p class="text-sm text-gray-400 mb-2">${c.age} · ${c.type}</p><p class="text-xs text-gray-500 mb-3">${c.traits}</p><p class="text-sm text-gray-300">${c.description}</p></div>
       </a>`;
     });
