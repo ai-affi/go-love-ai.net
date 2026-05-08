@@ -10,3 +10,6 @@
 /go/spicychat https://spicychat.ai?ref=odziy2m 302
 /go/aipeeps https://aipeeps.com?fpr=aippeps 302
 /go/nextpart https://nextpart.ai/?invite_code=1073 302
+
+# Redirect www to non-www
+https://www.go-love-ai.net/* https://go-love-ai.net/:splat 301
