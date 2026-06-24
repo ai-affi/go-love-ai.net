@@ -3,13 +3,13 @@
 # 302 = temporary redirect (preserves referrer, good for affiliate links)
 
 # Main affiliate link (go-love-ai.net)
-/go/mylovely https://goloveai.com/anonAuth?ref=hwict7 302
+/go/mylovely https://www.ourdreamersai.com/7S8HPQB/3QQG7/ 302
 
 # Alternative affiliate links (from Cluster 3)
-/go/soulkyn https://soulkyn.com/?_go=soulkynai 302
-/go/spicychat https://spicychat.ai?ref=odziy2m 302
-/go/aipeeps https://aipeeps.com?fpr=aippeps 302
-/go/nextpart https://nextpart.ai/?invite_code=1073 302
+/go/soulkyn https://www.ourdreamersai.com/7S8HPQB/3QQG7/ 302
+/go/spicychat https://www.ourdreamersai.com/7S8HPQB/3QQG7/ 302
+/go/aipeeps https://www.ourdreamersai.com/7S8HPQB/3QQG7/ 302
+/go/nextpart https://www.ourdreamersai.com/7S8HPQB/3QQG7/ 302
 
 # Redirect www to non-www
 https://www.go-love-ai.net/* https://go-love-ai.net/:splat 301
